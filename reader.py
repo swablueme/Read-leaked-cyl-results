@@ -20,8 +20,8 @@ text_to_write=""
 for hero in rankings:
     heroid=hero['heroId']
     heroname=heroids[heroid]
-    series_involved=[series["game"+series_id["id"]+".title"] for series_id in hero['seriesIds']]
-    text_to_write += "Rank %s | Hero: %s | Vote count: %s | Series: %s \n" % (hero["rank"], heroname, hero["voteCount"], ", ".join(series_involved))
+    series_involved=["\n\t"+series["game"+series_id["id"]+".title"]+" votes: "+series_id["voteCount"] for series_id in hero['seriesIds']]
+    text_to_write += "Rank %s | %s | Vote count: %s%s \n\n" % (hero["rank"], heroname, hero["voteCount"], "".join(series_involved))
 
 open(file_to_write, 'w').close()
 write_file(file_to_write, text_to_write)

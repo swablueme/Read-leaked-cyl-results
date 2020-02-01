@@ -1,774 +1,2479 @@
-Rank 1 | Hero: Edelgard | Vote count: 74617 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 2 | Hero: Dimitri | Vote count: 69448 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 3 | Hero: Claude | Vote count: 59751 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 4 | Hero: Marth | Vote count: 44107 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 5 | Hero: Lysithea | Vote count: 42462 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 6 | Hero: Bernadetta | Vote count: 37400 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 7 | Hero: Byleth (female) | Vote count: 35255 | Series: Three Houses (Academy Arc), Three Houses (Academy Arc) 
-Rank 8 | Hero: Eirika | Vote count: 26040 | Series: The Sacred Stones 
-Rank 9 | Hero: Plumeria | Vote count: 20800 | Series: Heroes 
-Rank 10 | Hero: Chrom | Vote count: 15595 | Series: Awakening 
-Rank 11 | Hero: Seliph | Vote count: 15593 | Series: Genealogy of the Holy War 
-Rank 12 | Hero: Dorothea | Vote count: 15212 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 13 | Hero: Marianne | Vote count: 14105 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 14 | Hero: Felix | Vote count: 12465 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 15 | Hero: Anna | Vote count: 12137 | Series: Awakening 
-Rank 16 | Hero: Hilda | Vote count: 11702 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 17 | Hero: Byleth (male) | Vote count: 10410 | Series: Three Houses (Academy Arc), Three Houses (Academy Arc) 
-Rank 18 | Hero: Robin (male) | Vote count: 9898 | Series: Awakening 
-Rank 19 | Hero: Ashe | Vote count: 9288 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 20 | Hero: Sylvain | Vote count: 9132 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 21 | Hero: Corrin (female) | Vote count: 9079 | Series: Fates 
-Rank 22 | Hero: Tharja | Vote count: 7674 | Series: Awakening 
-Rank 23 | Hero: Robin (female) | Vote count: 7352 | Series: Awakening 
-Rank 24 | Hero: Jill | Vote count: 6999 | Series: Radiant Dawn, Path of Radiance 
-Rank 25 | Hero: Sothis | Vote count: 6967 | Series: Three Houses (Academy Arc) 
-Rank 26 | Hero: Soren | Vote count: 6873 | Series: Radiant Dawn, Path of Radiance 
-Rank 27 | Hero: Jorge | Vote count: 6728 | Series: Radiant Dawn 
-Rank 28 | Hero: Azura | Vote count: 6264 | Series: Fates 
-Rank 29 | Hero: Sigurd | Vote count: 6198 | Series: Genealogy of the Holy War 
-Rank 30 | Hero: Líf | Vote count: 5771 | Series: Heroes 
-Rank 31 | Hero: Rhea | Vote count: 5627 | Series: Three Houses (Academy Arc) 
-Rank 32 | Hero: Ingrid | Vote count: 5543 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 33 | Hero: Black Knight | Vote count: 5247 | Series: Radiant Dawn, Path of Radiance 
-Rank 34 | Hero: Annette | Vote count: 5165 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 35 | Hero: Nino | Vote count: 5144 | Series: The Blazing Blade 
-Rank 36 | Hero: Mia | Vote count: 5031 | Series: Path of Radiance, Radiant Dawn 
-Rank 37 | Hero: Reinhardt | Vote count: 4963 | Series: Thracia 776 
-Rank 38 | Hero: Alfonse | Vote count: 4859 | Series: Heroes 
-Rank 38 | Hero: Lilina | Vote count: 4859 | Series: The Binding Blade 
-Rank 39 | Hero: Soleil | Vote count: 4639 | Series: Fates 
-Rank 40 | Hero: Linhardt | Vote count: 4591 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 41 | Hero: Ferdinand | Vote count: 4584 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 42 | Hero: Selena | Vote count: 4469 | Series: The Sacred Stones 
-Rank 43 | Hero: Shamir | Vote count: 4452 | Series: Three Houses (Academy Arc) 
-Rank 44 | Hero: Loki | Vote count: 4428 | Series: Heroes 
-Rank 45 | Hero: Tsubasa & Caeda | Vote count: 4410 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 46 | Hero: Petra | Vote count: 4374 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 47 | Hero: Tiki | Vote count: 4161 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 48 | Hero: Seiros | Vote count: 4145 | Series: Three Houses (War Arc) 
-Rank 49 | Hero: Itsuki & Chrom | Vote count: 4096 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 50 | Hero: Takumi | Vote count: 4013 | Series: Fates 
-Rank 51 | Hero: Triandra | Vote count: 3889 | Series: Heroes 
-Rank 52 | Hero: Dedue | Vote count: 3495 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 53 | Hero: Leo | Vote count: 3193 | Series: Fates 
-Rank 54 | Hero: Tiki | Vote count: 3137 | Series: Awakening 
-Rank 55 | Hero: Anna | Vote count: 3070 | Series: Heroes 
-Rank 56 | Hero: Lute | Vote count: 3047 | Series: The Sacred Stones 
-Rank 57 | Hero: Tiki | Vote count: 3031 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 58 | Hero: Flayn | Vote count: 3016 | Series: Three Houses (Academy Arc) 
-Rank 59 | Hero: Caspar | Vote count: 2987 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 60 | Hero: Seteth | Vote count: 2954 | Series: Three Houses (Academy Arc) 
-Rank 61 | Hero: Nephenee | Vote count: 2913 | Series: Radiant Dawn, Path of Radiance 
-Rank 62 | Hero: Mercedes | Vote count: 2890 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 63 | Hero: Cordelia | Vote count: 2834 | Series: Awakening 
-Rank 64 | Hero: Bruno | Vote count: 2831 | Series: Heroes 
-Rank 65 | Hero: Ninian | Vote count: 2796 | Series: The Blazing Blade 
-Rank 66 | Hero: Laegjarn | Vote count: 2753 | Series: Heroes 
-Rank 67 | Hero: Severa | Vote count: 2682 | Series: Awakening 
-Rank 68 | Hero: Lorenz | Vote count: 2668 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 69 | Hero: Fjorm | Vote count: 2654 | Series: Heroes 
-Rank 70 | Hero: Nowi | Vote count: 2596 | Series: Awakening 
-Rank 71 | Hero: Shinon | Vote count: 2576 | Series: Radiant Dawn, Path of Radiance 
-Rank 72 | Hero: Joshua | Vote count: 2575 | Series: The Sacred Stones 
-Rank 73 | Hero: Leonie | Vote count: 2503 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 74 | Hero: Hubert | Vote count: 2453 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 75 | Hero: Zelgius | Vote count: 2441 | Series: Path of Radiance, Radiant Dawn 
-Rank 76 | Hero: Caeda | Vote count: 2400 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 77 | Hero: Catria | Vote count: 2350 | Series: Gaiden / Echoes: Shadows of Valentia, Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 78 | Hero: Nils | Vote count: 2336 | Series: The Blazing Blade 
-Rank 79 | Hero: Corrin (male) | Vote count: 2294 | Series: Fates 
-Rank 80 | Hero: Ayra | Vote count: 2166 | Series: Genealogy of the Holy War 
-Rank 81 | Hero: Rinkah | Vote count: 2159 | Series: Fates 
-Rank 82 | Hero: Elincia | Vote count: 2132 | Series: Radiant Dawn, Path of Radiance 
-Rank 83 | Hero: Maiko | Vote count: 2078 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 84 | Hero: Myrrh | Vote count: 2066 | Series: The Sacred Stones 
-Rank 85 | Hero: Berkut | Vote count: 2031 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 86 | Hero: Xander | Vote count: 1947 | Series: Fates 
-Rank 87 | Hero: Lyon | Vote count: 1945 | Series: The Sacred Stones 
-Rank 88 | Hero: Felicia | Vote count: 1918 | Series: Fates 
-Rank 89 | Hero: Ishtar | Vote count: 1870 | Series: Genealogy of the Holy War 
-Rank 90 | Hero: Leif | Vote count: 1828 | Series: Thracia 776, Genealogy of the Holy War 
-Rank 91 | Hero: Sharena | Vote count: 1780 | Series: Heroes 
-Rank 92 | Hero: Ryoma | Vote count: 1779 | Series: Fates 
-Rank 93 | Hero: Morgan (female) | Vote count: 1767 | Series: Awakening 
-Rank 94 | Hero: Touma & Cain | Vote count: 1760 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 95 | Hero: Mila | Vote count: 1741 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 96 | Hero: Marisa | Vote count: 1694 | Series: The Sacred Stones 
-Rank 97 | Hero: Charlotte | Vote count: 1687 | Series: Fates 
-Rank 98 | Hero: Kris (male) | Vote count: 1662 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 99 | Hero: Tibarn | Vote count: 1646 | Series: Path of Radiance, Radiant Dawn 
-Rank 100 | Hero: Finn | Vote count: 1625 | Series: Genealogy of the Holy War, Thracia 776, Genealogy of the Holy War 
-Rank 101 | Hero: Kiria & Tharja | Vote count: 1589 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 102 | Hero: Selkie | Vote count: 1566 | Series: Fates 
-Rank 103 | Hero: Grima | Vote count: 1517 | Series: Awakening 
-Rank 104 | Hero: Idunn | Vote count: 1505 | Series: The Binding Blade 
-Rank 105 | Hero: Xane | Vote count: 1489 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 105 | Hero: Lilith | Vote count: 1489 | Series: Fates 
-Rank 106 | Hero: Surtr | Vote count: 1481 | Series: Heroes 
-Rank 107 | Hero: Ilyana | Vote count: 1469 | Series: Radiant Dawn, Path of Radiance 
-Rank 108 | Hero: Sakura | Vote count: 1467 | Series: Fates 
-Rank 109 | Hero: Nyx | Vote count: 1465 | Series: Fates 
-Rank 110 | Hero: Merlinus | Vote count: 1456 | Series: The Binding Blade 
-Rank 111 | Hero: Erk | Vote count: 1445 | Series: The Blazing Blade 
-Rank 112 | Hero: Nemesis | Vote count: 1427 | Series: Three Houses (War Arc) 
-Rank 113 | Hero: Thrasir | Vote count: 1415 | Series: Heroes 
-Rank 114 | Hero: Athos | Vote count: 1409 | Series: The Blazing Blade 
-Rank 114 | Hero: Sephiran | Vote count: 1409 | Series: Radiant Dawn, Path of Radiance 
-Rank 115 | Hero: Delthea | Vote count: 1386 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 116 | Hero: Laevatein | Vote count: 1363 | Series: Heroes 
-Rank 117 | Hero: Hinoka | Vote count: 1345 | Series: Fates 
-Rank 118 | Hero: Lon'qu | Vote count: 1321 | Series: Awakening 
-Rank 119 | Hero: Minerva | Vote count: 1294 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 120 | Hero: Anna | Vote count: 1292 | Series: Three Houses (Academy Arc) 
-Rank 120 | Hero: Faye | Vote count: 1292 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 120 | Hero: Forrest | Vote count: 1292 | Series: Fates 
-Rank 121 | Hero: Navarre | Vote count: 1289 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 122 | Hero: Hel | Vote count: 1287 | Series: Heroes 
-Rank 123 | Hero: Owain | Vote count: 1267 | Series: Awakening 
-Rank 124 | Hero: Leila | Vote count: 1266 | Series: The Blazing Blade 
-Rank 125 | Hero: Henry | Vote count: 1242 | Series: Awakening 
-Rank 126 | Hero: Catherine | Vote count: 1232 | Series: Three Houses (Academy Arc) 
-Rank 127 | Hero: Yashiro & Navarre | Vote count: 1228 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 128 | Hero: Eir | Vote count: 1222 | Series: Heroes 
-Rank 129 | Hero: Rath | Vote count: 1204 | Series: The Blazing Blade 
-Rank 130 | Hero: Cornelia | Vote count: 1159 | Series: Three Houses (War Arc) 
-Rank 131 | Hero: Ogma | Vote count: 1141 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 132 | Hero: Manuela | Vote count: 1133 | Series: Three Houses (Academy Arc) 
-Rank 133 | Hero: Tana | Vote count: 1129 | Series: The Sacred Stones 
-Rank 134 | Hero: Ranulf | Vote count: 1127 | Series: Radiant Dawn, Path of Radiance 
-Rank 135 | Hero: Luthier | Vote count: 1121 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 136 | Hero: Emmeryn | Vote count: 1117 | Series: Awakening 
-Rank 137 | Hero: Raphael | Vote count: 1115 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 138 | Hero: Julia | Vote count: 1109 | Series: Genealogy of the Holy War 
-Rank 139 | Hero: Eldigan | Vote count: 1106 | Series: Genealogy of the Holy War 
-Rank 140 | Hero: Olivia | Vote count: 1104 | Series: Awakening 
-Rank 141 | Hero: Boyd | Vote count: 1101 | Series: Radiant Dawn, Path of Radiance 
-Rank 142 | Hero: Jeralt | Vote count: 1098 | Series: Three Houses (Academy Arc) 
-Rank 143 | Hero: Sain | Vote count: 1091 | Series: The Blazing Blade 
-Rank 144 | Hero: Elise | Vote count: 1083 | Series: Fates 
-Rank 144 | Hero: Florina | Vote count: 1083 | Series: The Blazing Blade 
-Rank 145 | Hero: Volke | Vote count: 1079 | Series: Path of Radiance, Radiant Dawn 
-Rank 146 | Hero: Fae | Vote count: 1078 | Series: The Binding Blade 
-Rank 147 | Hero: Dieck | Vote count: 1071 | Series: The Binding Blade 
-Rank 148 | Hero: Camus | Vote count: 1061 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 149 | Hero: Ashnard | Vote count: 1027 | Series: Path of Radiance 
-Rank 150 | Hero: Brigid | Vote count: 1026 | Series: Genealogy of the Holy War 
-Rank 151 | Hero: Katarina | Vote count: 1024 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 151 | Hero: Dwyer | Vote count: 1024 | Series: Fates 
-Rank 152 | Hero: Mist | Vote count: 1021 | Series: Radiant Dawn, Path of Radiance 
-Rank 153 | Hero: Niles | Vote count: 1010 | Series: Fates 
-Rank 154 | Hero: Ignatz | Vote count: 995 | Series: Three Houses (War Arc), Three Houses (Academy Arc) 
-Rank 155 | Hero: Tatiana | Vote count: 983 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 155 | Hero: Knoll | Vote count: 983 | Series: The Sacred Stones 
-Rank 155 | Hero: Eleonora & Virion | Vote count: 983 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 156 | Hero: Ophelia | Vote count: 982 | Series: Fates 
-Rank 157 | Hero: Erinys | Vote count: 977 | Series: Genealogy of the Holy War 
-Rank 157 | Hero: Lucia | Vote count: 977 | Series: Radiant Dawn, Path of Radiance 
-Rank 158 | Hero: Sothe | Vote count: 974 | Series: Radiant Dawn, Path of Radiance 
-Rank 159 | Hero: Gunnthrá | Vote count: 968 | Series: Heroes 
-Rank 160 | Hero: Pelleas | Vote count: 965 | Series: Radiant Dawn 
-Rank 161 | Hero: Freyr | Vote count: 963 | Series: Heroes 
-Rank 162 | Hero: Sanaki | Vote count: 961 | Series: Radiant Dawn, Path of Radiance 
-Rank 163 | Hero: Say'ri | Vote count: 957 | Series: Awakening 
-Rank 164 | Hero: Cherche | Vote count: 946 | Series: Awakening 
-Rank 165 | Hero: Kagero | Vote count: 939 | Series: Fates 
-Rank 166 | Hero: Jeritza | Vote count: 935 | Series: Three Houses (Academy Arc) 
-Rank 166 | Hero: Hríd | Vote count: 935 | Series: Heroes 
-Rank 167 | Hero: Lewyn | Vote count: 929 | Series: Genealogy of the Holy War 
-Rank 168 | Hero: Ayaha & Aversa | Vote count: 922 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 169 | Hero: Lissa | Vote count: 916 | Series: Awakening 
-Rank 170 | Hero: Linde | Vote count: 897 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 171 | Hero: Larcei | Vote count: 896 | Series: Genealogy of the Holy War 
-Rank 172 | Hero: Seth | Vote count: 883 | Series: The Sacred Stones 
-Rank 173 | Hero: Anna | Vote count: 880 | Series: Fates 
-Rank 174 | Hero: Arvis | Vote count: 879 | Series: Genealogy of the Holy War 
-Rank 175 | Hero: Stefan | Vote count: 871 | Series: Path of Radiance, Radiant Dawn 
-Rank 176 | Hero: Inigo | Vote count: 867 | Series: Awakening 
-Rank 177 | Hero: Fir | Vote count: 865 | Series: The Binding Blade 
-Rank 178 | Hero: Amelia | Vote count: 862 | Series: The Sacred Stones 
-Rank 179 | Hero: Peony | Vote count: 855 | Series: Heroes 
-Rank 180 | Hero: Sophia | Vote count: 847 | Series: The Binding Blade 
-Rank 181 | Hero: Dheginsea | Vote count: 840 | Series: Path of Radiance, Radiant Dawn 
-Rank 182 | Hero: Barry | Vote count: 836 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 182 | Hero: Wrys | Vote count: 836 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 183 | Hero: Priam | Vote count: 835 | Series: Awakening 
-Rank 184 | Hero: Tine | Vote count: 825 | Series: Genealogy of the Holy War 
-Rank 185 | Hero: Donnel | Vote count: 824 | Series: Awakening 
-Rank 186 | Hero: Edward | Vote count: 818 | Series: Radiant Dawn 
-Rank 187 | Hero: Kliff | Vote count: 811 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 188 | Hero: Limstella | Vote count: 803 | Series: The Blazing Blade 
-Rank 189 | Hero: Rodrigue | Vote count: 796 | Series: Three Houses (Academy Arc) 
-Rank 190 | Hero: Guy | Vote count: 793 | Series: The Blazing Blade 
-Rank 191 | Hero: Nyna | Vote count: 792 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 192 | Hero: Palla | Vote count: 789 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Gaiden / Echoes: Shadows of Valentia, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 193 | Hero: Orochi | Vote count: 788 | Series: Fates 
-Rank 194 | Hero: Ced | Vote count: 783 | Series: Thracia 776, Genealogy of the Holy War 
-Rank 195 | Hero: Anankos | Vote count: 781 | Series: Fates 
-Rank 196 | Hero: Keaton | Vote count: 778 | Series: Fates 
-Rank 197 | Hero: Lachesis | Vote count: 774 | Series: Genealogy of the Holy War 
-Rank 198 | Hero: Azelle | Vote count: 771 | Series: Genealogy of the Holy War 
-Rank 198 | Hero: Sonia | Vote count: 771 | Series: The Blazing Blade 
-Rank 199 | Hero: Haar | Vote count: 765 | Series: Radiant Dawn, Path of Radiance 
-Rank 200 | Hero: Flame Emperor | Vote count: 759 | Series: Three Houses (Academy Arc) 
-Rank 201 | Hero: Patty | Vote count: 757 | Series: Genealogy of the Holy War 
-Rank 202 | Hero: Gaius | Vote count: 749 | Series: Awakening 
-Rank 202 | Hero: Miriel | Vote count: 749 | Series: Awakening 
-Rank 203 | Hero: Lex | Vote count: 738 | Series: Genealogy of the Holy War 
-Rank 204 | Hero: Astrid | Vote count: 735 | Series: Path of Radiance, Radiant Dawn 
-Rank 205 | Hero: Lukas | Vote count: 732 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 206 | Hero: Lucius | Vote count: 719 | Series: The Blazing Blade 
-Rank 207 | Hero: Titania | Vote count: 718 | Series: Radiant Dawn, Path of Radiance 
-Rank 208 | Hero: Zihark | Vote count: 717 | Series: Radiant Dawn, Path of Radiance 
-Rank 209 | Hero: Kurthnaga | Vote count: 715 | Series: Path of Radiance, Radiant Dawn 
-Rank 210 | Hero: L'Arachel | Vote count: 714 | Series: The Sacred Stones 
-Rank 211 | Hero: Velouria | Vote count: 706 | Series: Fates 
-Rank 212 | Hero: Merric | Vote count: 702 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 213 | Hero: Peri | Vote count: 697 | Series: Fates 
-Rank 213 | Hero: Beruka | Vote count: 697 | Series: Fates 
-Rank 214 | Hero: Scarlet | Vote count: 696 | Series: Fates 
-Rank 214 | Hero: Colm | Vote count: 696 | Series: The Sacred Stones 
-Rank 215 | Hero: Effie | Vote count: 694 | Series: Fates 
-Rank 215 | Hero: Mozu | Vote count: 694 | Series: Fates 
-Rank 216 | Hero: Gilliam | Vote count: 693 | Series: The Sacred Stones 
-Rank 217 | Hero: Kris (female) | Vote count: 688 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 218 | Hero: Volug | Vote count: 684 | Series: Radiant Dawn 
-Rank 218 | Hero: Kronya | Vote count: 684 | Series: Three Houses (Academy Arc) 
-Rank 219 | Hero: Arthur | Vote count: 682 | Series: Genealogy of the Holy War 
-Rank 220 | Hero: Sonya | Vote count: 676 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 221 | Hero: Greil | Vote count: 674 | Series: Path of Radiance 
-Rank 222 | Hero: Cyril | Vote count: 673 | Series: Three Houses (Academy Arc), Three Houses (War Arc) 
-Rank 223 | Hero: Rinea | Vote count: 660 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 223 | Hero: Brigand Boss | Vote count: 660 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 224 | Hero: Elice | Vote count: 659 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 225 | Hero: Anna | Vote count: 650 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 226 | Hero: Hana | Vote count: 646 | Series: Fates 
-Rank 227 | Hero: Gangrel | Vote count: 634 | Series: Awakening 
-Rank 228 | Hero: Jaffar | Vote count: 627 | Series: The Blazing Blade 
-Rank 228 | Hero: Mareeta | Vote count: 627 | Series: Thracia 776 
-Rank 229 | Hero: Deirdre | Vote count: 624 | Series: Genealogy of the Holy War 
-Rank 230 | Hero: Julian | Vote count: 622 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 231 | Hero: Heath | Vote count: 621 | Series: The Blazing Blade 
-Rank 232 | Hero: Aversa | Vote count: 618 | Series: Awakening 
-Rank 232 | Hero: Tormod | Vote count: 618 | Series: Radiant Dawn, Path of Radiance 
-Rank 233 | Hero: Wolf | Vote count: 610 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 233 | Hero: Midori | Vote count: 610 | Series: Fates 
-Rank 234 | Hero: Artur | Vote count: 603 | Series: The Sacred Stones 
-Rank 235 | Hero: Wolt | Vote count: 600 | Series: The Binding Blade 
-Rank 236 | Hero: Jakob | Vote count: 595 | Series: Fates 
-Rank 237 | Hero: Vika | Vote count: 593 | Series: Radiant Dawn 
-Rank 238 | Hero: Vanessa | Vote count: 589 | Series: The Sacred Stones 
-Rank 239 | Hero: Kaze | Vote count: 588 | Series: Fates 
-Rank 240 | Hero: Jeorge | Vote count: 586 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 241 | Hero: Lethe | Vote count: 584 | Series: Radiant Dawn, Path of Radiance 
-Rank 242 | Hero: Naesala | Vote count: 581 | Series: Radiant Dawn, Path of Radiance 
-Rank 243 | Hero: Pent | Vote count: 579 | Series: The Blazing Blade 
-Rank 244 | Hero: Raven | Vote count: 572 | Series: The Blazing Blade 
-Rank 245 | Hero: Marcia | Vote count: 571 | Series: Radiant Dawn, Path of Radiance 
-Rank 246 | Hero: Ashera | Vote count: 568 | Series: Radiant Dawn 
-Rank 246 | Hero: Sara | Vote count: 568 | Series: Thracia 776 
-Rank 246 | Hero: Flavia | Vote count: 568 | Series: Awakening 
-Rank 247 | Hero: Lloyd | Vote count: 567 | Series: The Blazing Blade 
-Rank 248 | Hero: Alois | Vote count: 564 | Series: Three Houses (Academy Arc) 
-Rank 249 | Hero: Genny | Vote count: 560 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 249 | Hero: Flora | Vote count: 560 | Series: Fates 
-Rank 250 | Hero: Mae | Vote count: 555 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 251 | Hero: Selena | Vote count: 554 | Series: Fates 
-Rank 252 | Hero: Rutger | Vote count: 551 | Series: The Binding Blade 
-Rank 253 | Hero: Reina | Vote count: 550 | Series: Fates 
-Rank 254 | Hero: Oboro | Vote count: 549 | Series: Fates 
-Rank 255 | Hero: Fernand | Vote count: 540 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 256 | Hero: Guinivere | Vote count: 538 | Series: The Binding Blade 
-Rank 257 | Hero: Shura | Vote count: 533 | Series: Fates 
-Rank 258 | Hero: Caineghis | Vote count: 530 | Series: Radiant Dawn, Path of Radiance 
-Rank 258 | Hero: Matthew | Vote count: 530 | Series: The Blazing Blade 
-Rank 259 | Hero: Gregor | Vote count: 529 | Series: Awakening 
-Rank 260 | Hero: Duessel | Vote count: 526 | Series: The Sacred Stones 
-Rank 261 | Hero: Gonzalez | Vote count: 519 | Series: The Binding Blade 
-Rank 262 | Hero: Hardin | Vote count: 516 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 263 | Hero: Neimi | Vote count: 511 | Series: The Sacred Stones 
-Rank 264 | Hero: Clair | Vote count: 508 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 265 | Hero: Ricken | Vote count: 507 | Series: Awakening 
-Rank 266 | Hero: Death Knight | Vote count: 506 | Series: Three Houses (Academy Arc) 
-Rank 267 | Hero: Shanna | Vote count: 503 | Series: The Binding Blade 
-Rank 268 | Hero: Nagi | Vote count: 498 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 269 | Hero: Setsuna | Vote count: 497 | Series: Fates 
-Rank 270 | Hero: Rebecca | Vote count: 495 | Series: The Blazing Blade 
-Rank 271 | Hero: Ulster | Vote count: 491 | Series: Genealogy of the Holy War 
-Rank 272 | Hero: Kellam | Vote count: 489 | Series: Awakening 
-Rank 272 | Hero: Michalis | Vote count: 489 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 272 | Hero: Muarim | Vote count: 489 | Series: Path of Radiance, Radiant Dawn 
-Rank 273 | Hero: Benny | Vote count: 487 | Series: Fates 
-Rank 274 | Hero: Noire | Vote count: 485 | Series: Awakening 
-Rank 275 | Hero: Natasha | Vote count: 484 | Series: The Sacred Stones 
-Rank 276 | Hero: Frederick | Vote count: 483 | Series: Awakening 
-Rank 276 | Hero: Matthis | Vote count: 483 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 277 | Hero: Melady | Vote count: 477 | Series: The Binding Blade 
-Rank 278 | Hero: Canas | Vote count: 474 | Series: The Blazing Blade 
-Rank 279 | Hero: Arete | Vote count: 473 | Series: Fates 
-Rank 280 | Hero: Caeldori | Vote count: 472 | Series: Fates 
-Rank 280 | Hero: Julius | Vote count: 472 | Series: Genealogy of the Holy War 
-Rank 281 | Hero: Sophie | Vote count: 471 | Series: Fates 
-Rank 282 | Hero: Hugh | Vote count: 470 | Series: The Binding Blade 
-Rank 282 | Hero: Vaike | Vote count: 470 | Series: Awakening 
-Rank 283 | Hero: Franz | Vote count: 467 | Series: The Sacred Stones 
-Rank 284 | Hero: Zeke | Vote count: 466 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 284 | Hero: Kaden | Vote count: 466 | Series: Fates 
-Rank 285 | Hero: Rhys | Vote count: 462 | Series: Radiant Dawn, Path of Radiance 
-Rank 285 | Hero: Morgan (male) | Vote count: 462 | Series: Awakening 
-Rank 286 | Hero: Helbindi | Vote count: 460 | Series: Heroes 
-Rank 287 | Hero: Kent | Vote count: 457 | Series: The Blazing Blade 
-Rank 288 | Hero: Kana (female) | Vote count: 451 | Series: Fates 
-Rank 289 | Hero: Lena | Vote count: 448 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 289 | Hero: Mamori & Draug | Vote count: 448 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 290 | Hero: Asbel | Vote count: 446 | Series: Thracia 776 
-Rank 290 | Hero: Nailah | Vote count: 446 | Series: Radiant Dawn 
-Rank 291 | Hero: Nergal | Vote count: 435 | Series: The Blazing Blade 
-Rank 292 | Hero: Farina | Vote count: 434 | Series: The Blazing Blade 
-Rank 293 | Hero: Rudolf | Vote count: 432 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 294 | Hero: Ylgr | Vote count: 430 | Series: Heroes 
-Rank 295 | Hero: Medeus | Vote count: 429 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 296 | Hero: Serra | Vote count: 428 | Series: The Blazing Blade 
-Rank 297 | Hero: Basilio | Vote count: 427 | Series: Awakening 
-Rank 297 | Hero: Reyson | Vote count: 427 | Series: Path of Radiance, Radiant Dawn 
-Rank 298 | Hero: Ares | Vote count: 426 | Series: Genealogy of the Holy War 
-Rank 298 | Hero: Heather | Vote count: 426 | Series: Radiant Dawn 
-Rank 299 | Hero: Ronan | Vote count: 423 | Series: Thracia 776 
-Rank 300 | Hero: Gordin | Vote count: 422 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 301 | Hero: Laslow | Vote count: 420 | Series: Fates 
-Rank 302 | Hero: Conrad | Vote count: 418 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 303 | Hero: Geoffrey | Vote count: 417 | Series: Radiant Dawn, Path of Radiance 
-Rank 304 | Hero: Innes | Vote count: 415 | Series: The Sacred Stones 
-Rank 305 | Hero: Mitama | Vote count: 414 | Series: Fates 
-Rank 306 | Hero: Kiragi | Vote count: 413 | Series: Fates 
-Rank 307 | Hero: Subaki | Vote count: 410 | Series: Fates 
-Rank 308 | Hero: Samuel | Vote count: 406 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 309 | Hero: Iago | Vote count: 404 | Series: Fates 
-Rank 310 | Hero: Shannan | Vote count: 403 | Series: Genealogy of the Holy War 
-Rank 310 | Hero: Panne | Vote count: 403 | Series: Awakening 
-Rank 310 | Hero: Leanne | Vote count: 403 | Series: Radiant Dawn, Path of Radiance 
-Rank 311 | Hero: Kamui | Vote count: 401 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 312 | Hero: Layla | Vote count: 400 | Series: Fates 
-Rank 313 | Hero: Python | Vote count: 398 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 314 | Hero: Naga | Vote count: 396 | Series: Awakening 
-Rank 315 | Hero: Ursula | Vote count: 395 | Series: The Blazing Blade 
-Rank 316 | Hero: Zephiel | Vote count: 393 | Series: The Binding Blade 
-Rank 317 | Hero: Oswin | Vote count: 390 | Series: The Blazing Blade 
-Rank 318 | Hero: Fiora | Vote count: 389 | Series: The Blazing Blade 
-Rank 319 | Hero: Clarisse | Vote count: 388 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 320 | Hero: Stahl | Vote count: 384 | Series: Awakening 
-Rank 321 | Hero: Est | Vote count: 381 | Series: Gaiden / Echoes: Shadows of Valentia, Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 321 | Hero: Nah | Vote count: 381 | Series: Awakening 
-Rank 322 | Hero: Arion | Vote count: 379 | Series: Genealogy of the Holy War 
-Rank 322 | Hero: Merlinus | Vote count: 379 | Series: The Blazing Blade 
-Rank 323 | Hero: Cain | Vote count: 377 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 324 | Hero: Skrimir | Vote count: 376 | Series: Radiant Dawn 
-Rank 325 | Hero: Laurent | Vote count: 371 | Series: Awakening 
-Rank 326 | Hero: Yune | Vote count: 367 | Series: Radiant Dawn 
-Rank 327 | Hero: Petrine | Vote count: 366 | Series: Path of Radiance 
-Rank 328 | Hero: Wil | Vote count: 365 | Series: The Blazing Blade 
-Rank 329 | Hero: Arden | Vote count: 361 | Series: Genealogy of the Holy War 
-Rank 330 | Hero: Saleh | Vote count: 360 | Series: The Sacred Stones 
-Rank 331 | Hero: Deen | Vote count: 354 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 332 | Hero: Rhajat | Vote count: 353 | Series: Fates 
-Rank 333 | Hero: Athena | Vote count: 352 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 333 | Hero: Libra | Vote count: 352 | Series: Awakening 
-Rank 334 | Hero: Sumia | Vote count: 351 | Series: Awakening 
-Rank 335 | Hero: Monica | Vote count: 348 | Series: Three Houses (Academy Arc) 
-Rank 336 | Hero: Narcian | Vote count: 345 | Series: The Binding Blade 
-Rank 337 | Hero: Silas | Vote count: 344 | Series: Fates 
-Rank 338 | Hero: Galzus | Vote count: 342 | Series: Thracia 776 
-Rank 339 | Hero: Kieran | Vote count: 341 | Series: Radiant Dawn, Path of Radiance 
-Rank 340 | Hero: Meg | Vote count: 340 | Series: Radiant Dawn 
-Rank 341 | Hero: Olwen | Vote count: 339 | Series: Thracia 776 
-Rank 341 | Hero: Quan | Vote count: 339 | Series: Genealogy of the Holy War 
-Rank 341 | Hero: Saber | Vote count: 339 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 342 | Hero: Tailtiu | Vote count: 337 | Series: Genealogy of the Holy War 
-Rank 343 | Hero: Valter | Vote count: 332 | Series: The Sacred Stones 
-Rank 344 | Hero: Hestia | Vote count: 331 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 345 | Hero: Saizo | Vote count: 330 | Series: Fates 
-Rank 345 | Hero: Janaff | Vote count: 330 | Series: Radiant Dawn, Path of Radiance 
-Rank 346 | Hero: Leon | Vote count: 328 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 347 | Hero: Dorcas | Vote count: 327 | Series: The Blazing Blade 
-Rank 348 | Hero: Malice | Vote count: 320 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 349 | Hero: Rafiel | Vote count: 317 | Series: Radiant Dawn 
-Rank 350 | Hero: Silque | Vote count: 316 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 350 | Hero: Lorenz | Vote count: 316 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 351 | Hero: Aran | Vote count: 315 | Series: Radiant Dawn 
-Rank 352 | Hero: Niime | Vote count: 314 | Series: The Binding Blade 
-Rank 353 | Hero: Judith | Vote count: 313 | Series: Three Houses (Academy Arc) 
-Rank 354 | Hero: Ismaire | Vote count: 306 | Series: The Sacred Stones 
-Rank 354 | Hero: Linoan | Vote count: 306 | Series: Thracia 776 
-Rank 355 | Hero: Maribelle | Vote count: 302 | Series: Awakening 
-Rank 356 | Hero: Atlas | Vote count: 298 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 356 | Hero: Nasir | Vote count: 298 | Series: Radiant Dawn, Path of Radiance 
-Rank 357 | Hero: Etzel | Vote count: 297 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 357 | Hero: Klein | Vote count: 297 | Series: The Binding Blade 
-Rank 357 | Hero: Sumeragi | Vote count: 297 | Series: Fates 
-Rank 358 | Hero: Dew | Vote count: 296 | Series: Genealogy of the Holy War 
-Rank 359 | Hero: Cecilia | Vote count: 295 | Series: The Binding Blade 
-Rank 359 | Hero: Mustafa | Vote count: 295 | Series: Awakening 
-Rank 360 | Hero: Izana | Vote count: 294 | Series: Fates 
-Rank 361 | Hero: Louise | Vote count: 293 | Series: The Blazing Blade 
-Rank 362 | Hero: Shigure | Vote count: 290 | Series: Fates 
-Rank 362 | Hero: Lyre | Vote count: 290 | Series: Radiant Dawn 
-Rank 363 | Hero: Eremiya | Vote count: 288 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 363 | Hero: Duma | Vote count: 288 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 364 | Hero: Ross | Vote count: 286 | Series: The Sacred Stones 
-Rank 365 | Hero: Cormag | Vote count: 285 | Series: The Sacred Stones 
-Rank 366 | Hero: Lambert | Vote count: 284 | Series: Three Houses (War Arc) 
-Rank 367 | Hero: Ashunera | Vote count: 282 | Series: Radiant Dawn 
-Rank 367 | Hero: Metodey | Vote count: 282 | Series: Three Houses (Academy Arc) 
-Rank 368 | Hero: Chulainn | Vote count: 280 | Series: Genealogy of the Holy War 
-Rank 369 | Hero: Karla | Vote count: 279 | Series: The Blazing Blade 
-Rank 369 | Hero: Mordecai | Vote count: 279 | Series: Path of Radiance, Radiant Dawn 
-Rank 370 | Hero: Marcus | Vote count: 278 | Series: The Blazing Blade 
-Rank 371 | Hero: Thales | Vote count: 277 | Series: Three Houses (War Arc) 
-Rank 372 | Hero: Dart | Vote count: 275 | Series: The Blazing Blade 
-Rank 373 | Hero: Lugh | Vote count: 273 | Series: The Binding Blade 
-Rank 374 | Hero: Daisy | Vote count: 272 | Series: Genealogy of the Holy War 
-Rank 374 | Hero: Priscilla | Vote count: 272 | Series: The Blazing Blade 
-Rank 375 | Hero: Sirius | Vote count: 271 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 376 | Hero: Ena | Vote count: 269 | Series: Radiant Dawn, Path of Radiance 
-Rank 376 | Hero: Tobin | Vote count: 269 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 377 | Hero: Gatrie | Vote count: 266 | Series: Path of Radiance, Radiant Dawn 
-Rank 377 | Hero: Miklan | Vote count: 266 | Series: Three Houses (Academy Arc) 
-Rank 378 | Hero: Cynthia | Vote count: 263 | Series: Awakening 
-Rank 379 | Hero: Elena | Vote count: 262 | Series: Path of Radiance 
-Rank 380 | Hero: Nader | Vote count: 261 | Series: Three Houses (War Arc) 
-Rank 381 | Hero: Odin | Vote count: 260 | Series: Fates 
-Rank 382 | Hero: Forde | Vote count: 258 | Series: The Sacred Stones 
-Rank 382 | Hero: Mikoto | Vote count: 258 | Series: Fates 
-Rank 383 | Hero: Harken | Vote count: 256 | Series: The Blazing Blade 
-Rank 383 | Hero: Legault | Vote count: 256 | Series: The Blazing Blade 
-Rank 384 | Hero: Duke Aegir | Vote count: 254 | Series: Three Houses (War Arc) 
-Rank 385 | Hero: Oifey | Vote count: 252 | Series: Genealogy of the Holy War 
-Rank 386 | Hero: Gerik | Vote count: 251 | Series: The Sacred Stones 
-Rank 387 | Hero: Karel | Vote count: 250 | Series: The Binding Blade 
-Rank 387 | Hero: Raigh | Vote count: 250 | Series: The Binding Blade 
-Rank 387 | Hero: Maria | Vote count: 250 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 388 | Hero: Hanneman | Vote count: 249 | Series: Three Houses (Academy Arc) 
-Rank 389 | Hero: Oliver | Vote count: 247 | Series: Radiant Dawn 
-Rank 390 | Hero: Barst | Vote count: 246 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 391 | Hero: Radd | Vote count: 245 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 392 | Hero: Castor | Vote count: 242 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 392 | Hero: Garcia | Vote count: 242 | Series: The Sacred Stones 
-Rank 393 | Hero: Gotoh | Vote count: 239 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 394 | Hero: Virion | Vote count: 238 | Series: Awakening 
-Rank 395 | Hero: Kana (male) | Vote count: 237 | Series: Fates 
-Rank 396 | Hero: Astram | Vote count: 236 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 397 | Hero: Isadora | Vote count: 235 | Series: The Blazing Blade 
-Rank 397 | Hero: Hayato | Vote count: 235 | Series: Fates 
-Rank 398 | Hero: Sheena | Vote count: 232 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 399 | Hero: Calill | Vote count: 227 | Series: Radiant Dawn, Path of Radiance 
-Rank 400 | Hero: Boey | Vote count: 226 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 401 | Hero: Linus | Vote count: 224 | Series: The Blazing Blade 
-Rank 402 | Hero: Clarine | Vote count: 223 | Series: The Binding Blade 
-Rank 403 | Hero: Altena | Vote count: 222 | Series: Genealogy of the Holy War 
-Rank 403 | Hero: Carrion | Vote count: 222 | Series: Thracia 776 
-Rank 404 | Hero: Glen | Vote count: 221 | Series: The Sacred Stones 
-Rank 404 | Hero: Lot | Vote count: 221 | Series: The Binding Blade 
-Rank 405 | Hero: Ephidel | Vote count: 220 | Series: The Blazing Blade 
-Rank 405 | Hero: Febail | Vote count: 220 | Series: Genealogy of the Holy War 
-Rank 406 | Hero: Lana | Vote count: 219 | Series: Genealogy of the Holy War 
-Rank 407 | Hero: Perceval | Vote count: 217 | Series: The Binding Blade 
-Rank 407 | Hero: Murdock | Vote count: 217 | Series: The Binding Blade 
-Rank 408 | Hero: Arlen | Vote count: 216 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 409 | Hero: Guinivere | Vote count: 215 | Series: The Blazing Blade 
-Rank 409 | Hero: Dorothy | Vote count: 215 | Series: The Binding Blade 
-Rank 410 | Hero: Giffca | Vote count: 214 | Series: Path of Radiance, Radiant Dawn 
-Rank 410 | Hero: Mycen | Vote count: 214 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 411 | Hero: Brom | Vote count: 212 | Series: Radiant Dawn, Path of Radiance 
-Rank 412 | Hero: Miranda | Vote count: 211 | Series: Thracia 776 
-Rank 412 | Hero: Moulder | Vote count: 211 | Series: The Sacred Stones 
-Rank 413 | Hero: Brunnya | Vote count: 210 | Series: The Binding Blade 
-Rank 414 | Hero: Igrene | Vote count: 208 | Series: The Binding Blade 
-Rank 415 | Hero: Nolan | Vote count: 207 | Series: Radiant Dawn 
-Rank 416 | Hero: Validar | Vote count: 205 | Series: Awakening 
-Rank 416 | Hero: Lance | Vote count: 205 | Series: The Binding Blade 
-Rank 417 | Hero: Elffin | Vote count: 204 | Series: The Binding Blade 
-Rank 418 | Hero: Zeiss | Vote count: 203 | Series: The Binding Blade 
-Rank 419 | Hero: Naoise | Vote count: 202 | Series: Genealogy of the Holy War 
-Rank 420 | Hero: Yen'fay | Vote count: 201 | Series: Awakening 
-Rank 421 | Hero: Caellach | Vote count: 199 | Series: The Sacred Stones 
-Rank 421 | Hero: Nanna | Vote count: 199 | Series: Thracia 776, Genealogy of the Holy War 
-Rank 422 | Hero: Noah | Vote count: 197 | Series: The Binding Blade 
-Rank 423 | Hero: Nina | Vote count: 196 | Series: Fates 
-Rank 424 | Hero: Alen | Vote count: 195 | Series: The Binding Blade 
-Rank 424 | Hero: Rolf | Vote count: 195 | Series: Radiant Dawn, Path of Radiance 
-Rank 425 | Hero: Leonardo | Vote count: 194 | Series: Radiant Dawn 
-Rank 426 | Hero: Gray | Vote count: 193 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 427 | Hero: Orson | Vote count: 192 | Series: The Sacred Stones 
-Rank 427 | Hero: Vaida | Vote count: 192 | Series: The Blazing Blade 
-Rank 428 | Hero: Shiro | Vote count: 191 | Series: Fates 
-Rank 429 | Hero: Cath | Vote count: 190 | Series: The Binding Blade 
-Rank 430 | Hero: Geese | Vote count: 187 | Series: The Binding Blade 
-Rank 430 | Hero: Hicks | Vote count: 187 | Series: Thracia 776 
-Rank 431 | Hero: Samson | Vote count: 186 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 432 | Hero: Galle | Vote count: 185 | Series: The Binding Blade 
-Rank 432 | Hero: Machyua | Vote count: 185 | Series: Thracia 776 
-Rank 433 | Hero: Echidna | Vote count: 182 | Series: The Binding Blade 
-Rank 433 | Hero: Lowen | Vote count: 182 | Series: The Blazing Blade 
-Rank 433 | Hero: Midia | Vote count: 182 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 434 | Hero: Draug | Vote count: 181 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 435 | Hero: Jesse | Vote count: 180 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 436 | Hero: Tanith | Vote count: 179 | Series: Path of Radiance, Radiant Dawn 
-Rank 436 | Hero: Nuibaba | Vote count: 179 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 437 | Hero: Thea | Vote count: 178 | Series: The Binding Blade 
-Rank 438 | Hero: Arthur | Vote count: 177 | Series: Fates 
-Rank 439 | Hero: Vyland | Vote count: 176 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 439 | Hero: Randolph | Vote count: 176 | Series: Three Houses (War Arc) 
-Rank 440 | Hero: Gunter | Vote count: 175 | Series: Fates 
-Rank 441 | Hero: Gerome | Vote count: 174 | Series: Awakening 
-Rank 441 | Hero: Forsyth | Vote count: 174 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 442 | Hero: Norne | Vote count: 173 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 443 | Hero: Legion | Vote count: 172 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 443 | Hero: Wallace | Vote count: 172 | Series: The Blazing Blade 
-Rank 444 | Hero: Jake | Vote count: 171 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 445 | Hero: Sigrun | Vote count: 170 | Series: Radiant Dawn, Path of Radiance 
-Rank 445 | Hero: Laura | Vote count: 170 | Series: Radiant Dawn 
-Rank 446 | Hero: Abel | Vote count: 168 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 446 | Hero: Mathilda | Vote count: 168 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 446 | Hero: Walhart | Vote count: 168 | Series: Awakening 
-Rank 447 | Hero: Azama | Vote count: 167 | Series: Fates 
-Rank 448 | Hero: Ethlyn | Vote count: 166 | Series: Genealogy of the Holy War 
-Rank 448 | Hero: Edain | Vote count: 166 | Series: Genealogy of the Holy War 
-Rank 448 | Hero: Beowolf | Vote count: 166 | Series: Genealogy of the Holy War 
-Rank 449 | Hero: Riku & Abel | Vote count: 164 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 450 | Hero: Yatsufusa & Gharnef | Vote count: 162 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 451 | Hero: Fee | Vote count: 161 | Series: Genealogy of the Holy War 
-Rank 452 | Hero: Yarne | Vote count: 160 | Series: Awakening 
-Rank 453 | Hero: Claud | Vote count: 158 | Series: Genealogy of the Holy War 
-Rank 454 | Hero: Karel | Vote count: 157 | Series: The Blazing Blade 
-Rank 455 | Hero: Jedah | Vote count: 156 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 456 | Hero: Geitz | Vote count: 155 | Series: The Blazing Blade 
-Rank 456 | Hero: Ladislava | Vote count: 155 | Series: Three Houses (Academy Arc) 
-Rank 456 | Hero: Rennac | Vote count: 155 | Series: The Sacred Stones 
-Rank 456 | Hero: Jagen | Vote count: 155 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 457 | Hero: Roshea | Vote count: 154 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 458 | Hero: Annand | Vote count: 153 | Series: Genealogy of the Holy War 
-Rank 459 | Hero: Salem | Vote count: 152 | Series: Thracia 776 
-Rank 459 | Hero: Cecil | Vote count: 152 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 460 | Hero: Lara | Vote count: 150 | Series: Thracia 776 
-Rank 461 | Hero: Cervantes | Vote count: 149 | Series: Awakening 
-Rank 462 | Hero: Makalov | Vote count: 148 | Series: Path of Radiance, Radiant Dawn 
-Rank 462 | Hero: Renault | Vote count: 148 | Series: The Blazing Blade 
-Rank 463 | Hero: Marla | Vote count: 147 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 464 | Hero: Trec | Vote count: 145 | Series: The Binding Blade 
-Rank 464 | Hero: Juno | Vote count: 145 | Series: The Binding Blade 
-Rank 465 | Hero: Oscar | Vote count: 144 | Series: Radiant Dawn, Path of Radiance 
-Rank 465 | Hero: Yukimura | Vote count: 144 | Series: Fates 
-Rank 465 | Hero: Yuliya | Vote count: 144 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 466 | Hero: Bastian | Vote count: 143 | Series: Radiant Dawn, Path of Radiance 
-Rank 467 | Hero: Saul | Vote count: 142 | Series: The Binding Blade 
-Rank 468 | Hero: Anna | Vote count: 139 | Series: Radiant Dawn 
-Rank 469 | Hero: Ewan | Vote count: 138 | Series: The Sacred Stones 
-Rank 470 | Hero: Danann | Vote count: 136 | Series: Genealogy of the Holy War 
-Rank 471 | Hero: Ogier | Vote count: 135 | Series: The Binding Blade 
-Rank 471 | Hero: Hinata | Vote count: 135 | Series: Fates 
-Rank 471 | Hero: Sedgar | Vote count: 135 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 472 | Hero: Garon | Vote count: 134 | Series: Fates 
-Rank 473 | Hero: Hawkeye | Vote count: 133 | Series: The Blazing Blade 
-Rank 474 | Hero: Asugi | Vote count: 132 | Series: Fates 
-Rank 475 | Hero: Karin | Vote count: 130 | Series: Thracia 776 
-Rank 475 | Hero: Midir | Vote count: 130 | Series: Genealogy of the Holy War 
-Rank 476 | Hero: Gharnef | Vote count: 128 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 476 | Hero: Marty | Vote count: 128 | Series: Thracia 776 
-Rank 477 | Hero: Devdan | Vote count: 127 | Series: Path of Radiance 
-Rank 478 | Hero: Gwendolyn | Vote count: 125 | Series: The Binding Blade 
-Rank 478 | Hero: Shiva | Vote count: 125 | Series: Thracia 776 
-Rank 479 | Hero: Sue | Vote count: 124 | Series: The Binding Blade 
-Rank 480 | Hero: Misha | Vote count: 121 | Series: Thracia 776 
-Rank 480 | Hero: Percy | Vote count: 121 | Series: Fates 
-Rank 481 | Hero: Gilbert | Vote count: 120 | Series: Three Houses (Academy Arc) 
-Rank 481 | Hero: Diarmuid | Vote count: 120 | Series: Thracia 776, Genealogy of the Holy War 
-Rank 481 | Hero: Bantu | Vote count: 120 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 482 | Hero: Wendell | Vote count: 119 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 482 | Hero: Sin | Vote count: 119 | Series: The Binding Blade 
-Rank 483 | Hero: Lifis | Vote count: 118 | Series: Thracia 776 
-Rank 484 | Hero: Lombard | Vote count: 116 | Series: Genealogy of the Holy War 
-Rank 485 | Hero: Marcus | Vote count: 114 | Series: The Binding Blade 
-Rank 486 | Hero: Amy | Vote count: 113 | Series: Radiant Dawn 
-Rank 486 | Hero: Saias | Vote count: 113 | Series: Thracia 776 
-Rank 486 | Hero: Manfroy | Vote count: 113 | Series: Genealogy of the Holy War 
-Rank 487 | Hero: Almedha | Vote count: 112 | Series: Radiant Dawn 
-Rank 487 | Hero: Tethys | Vote count: 112 | Series: The Sacred Stones 
-Rank 487 | Hero: Cord | Vote count: 112 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 488 | Hero: Caesar | Vote count: 111 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 489 | Hero: Kyle | Vote count: 110 | Series: The Sacred Stones 
-Rank 489 | Hero: Travant | Vote count: 110 | Series: Genealogy of the Holy War 
-Rank 489 | Hero: Frey | Vote count: 110 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 490 | Hero: Laylea | Vote count: 108 | Series: Genealogy of the Holy War 
-Rank 491 | Hero: Clive | Vote count: 107 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 491 | Hero: Kostas | Vote count: 107 | Series: Three Houses (Academy Arc) 
-Rank 492 | Hero: Amalda | Vote count: 106 | Series: Thracia 776 
-Rank 492 | Hero: Eyvel | Vote count: 106 | Series: Thracia 776 
-Rank 492 | Hero: Kempf | Vote count: 106 | Series: Thracia 776 
-Rank 492 | Hero: Darros | Vote count: 106 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 493 | Hero: Syrene | Vote count: 105 | Series: The Sacred Stones 
-Rank 493 | Hero: Fado | Vote count: 105 | Series: The Sacred Stones 
-Rank 493 | Hero: Fergus | Vote count: 105 | Series: Thracia 776 
-Rank 494 | Hero: Zola | Vote count: 103 | Series: Fates 
-Rank 495 | Hero: Sully | Vote count: 102 | Series: Awakening 
-Rank 496 | Hero: Ulki | Vote count: 101 | Series: Path of Radiance, Radiant Dawn 
-Rank 496 | Hero: Dagdar | Vote count: 101 | Series: Thracia 776 
-Rank 497 | Hero: Zephiel | Vote count: 99 | Series: The Blazing Blade 
-Rank 497 | Hero: Dalsin | Vote count: 99 | Series: Thracia 776 
-Rank 497 | Hero: Brady | Vote count: 99 | Series: Awakening 
-Rank 498 | Hero: Valbar | Vote count: 98 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 498 | Hero: Nobu & Gangrel | Vote count: 98 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 499 | Hero: Chad | Vote count: 97 | Series: The Binding Blade 
-Rank 499 | Hero: Horace | Vote count: 97 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 500 | Hero: Elen | Vote count: 96 | Series: The Binding Blade 
-Rank 500 | Hero: Shannam | Vote count: 96 | Series: Thracia 776 
-Rank 501 | Hero: Eda | Vote count: 95 | Series: Thracia 776 
-Rank 501 | Hero: Hisame | Vote count: 95 | Series: Fates 
-Rank 501 | Hero: Lene | Vote count: 95 | Series: Genealogy of the Holy War 
-Rank 501 | Hero: Tauroneo | Vote count: 95 | Series: Path of Radiance, Radiant Dawn 
-Rank 501 | Hero: Rickard | Vote count: 95 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 502 | Hero: Aida | Vote count: 94 | Series: Genealogy of the Holy War 
-Rank 502 | Hero: Emperor Ionius IX | Vote count: 94 | Series: Three Houses (Academy Arc) 
-Rank 503 | Hero: Tomas | Vote count: 93 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 504 | Hero: Renning | Vote count: 92 | Series: Radiant Dawn, Path of Radiance 
-Rank 505 | Hero: Danved | Vote count: 91 | Series: Radiant Dawn 
-Rank 505 | Hero: Silvia | Vote count: 91 | Series: Genealogy of the Holy War 
-Rank 505 | Hero: Siegbert | Vote count: 91 | Series: Fates 
-Rank 506 | Hero: Acheron | Vote count: 89 | Series: Three Houses (Academy Arc) 
-Rank 506 | Hero: Candace | Vote count: 89 | Series: Fates 
-Rank 507 | Hero: Iuchar | Vote count: 88 | Series: Genealogy of the Holy War 
-Rank 508 | Hero: Homer | Vote count: 87 | Series: Thracia 776 
-Rank 509 | Hero: Solon | Vote count: 86 | Series: Three Houses (Academy Arc) 
-Rank 509 | Hero: Rainbow Sage | Vote count: 86 | Series: Fates 
-Rank 510 | Hero: Arran | Vote count: 85 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 510 | Hero: Dozla | Vote count: 85 | Series: The Sacred Stones 
-Rank 510 | Hero: Jahn | Vote count: 85 | Series: The Binding Blade 
-Rank 511 | Hero: Gareth | Vote count: 84 | Series: Radiant Dawn, Path of Radiance 
-Rank 512 | Hero: Bord | Vote count: 83 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 512 | Hero: Marisha | Vote count: 83 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 513 | Hero: Bartre | Vote count: 79 | Series: The Binding Blade 
-Rank 514 | Hero: Kyza | Vote count: 77 | Series: Radiant Dawn 
-Rank 515 | Hero: Ymir | Vote count: 76 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 516 | Hero: Fiona | Vote count: 75 | Series: Radiant Dawn 
-Rank 517 | Hero: Byron | Vote count: 74 | Series: Genealogy of the Holy War 
-Rank 518 | Hero: Excellus | Vote count: 73 | Series: Awakening 
-Rank 518 | Hero: Kjelle | Vote count: 73 | Series: Awakening 
-Rank 518 | Hero: Hilda | Vote count: 73 | Series: Genealogy of the Holy War 
-Rank 518 | Hero: Muirne | Vote count: 73 | Series: Genealogy of the Holy War 
-Rank 518 | Hero: Ryan | Vote count: 73 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 519 | Hero: Jarod | Vote count: 72 | Series: Radiant Dawn 
-Rank 519 | Hero: Tina | Vote count: 72 | Series: Thracia 776 
-Rank 520 | Hero: Glade | Vote count: 70 | Series: Thracia 776 
-Rank 521 | Hero: Hans | Vote count: 69 | Series: Fates 
-Rank 521 | Hero: Linda | Vote count: 69 | Series: Genealogy of the Holy War 
-Rank 521 | Hero: Nealuchi | Vote count: 69 | Series: Path of Radiance, Radiant Dawn 
-Rank 522 | Hero: Alec | Vote count: 68 | Series: Genealogy of the Holy War 
-Rank 522 | Hero: Jamke | Vote count: 68 | Series: Genealogy of the Holy War 
-Rank 522 | Hero: Iucharba | Vote count: 68 | Series: Genealogy of the Holy War 
-Rank 523 | Hero: Tanya | Vote count: 67 | Series: Thracia 776 
-Rank 523 | Hero: Douglas | Vote count: 67 | Series: The Binding Blade 
-Rank 523 | Hero: Brian | Vote count: 67 | Series: Genealogy of the Holy War 
-Rank 523 | Hero: Kuen & Excellus | Vote count: 67 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 524 | Hero: Astolfo | Vote count: 66 | Series: The Binding Blade 
-Rank 525 | Hero: Ralf | Vote count: 65 | Series: Thracia 776 
-Rank 526 | Hero: Fred | Vote count: 64 | Series: Thracia 776 
-Rank 527 | Hero: Ishtore | Vote count: 62 | Series: Genealogy of the Holy War 
-Rank 527 | Hero: Bartre | Vote count: 62 | Series: The Blazing Blade 
-Rank 527 | Hero: Chikaomi & Lon'qu | Vote count: 62 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 528 | Hero: Reptor | Vote count: 61 | Series: Genealogy of the Holy War 
-Rank 529 | Hero: Lester | Vote count: 60 | Series: Genealogy of the Holy War 
-Rank 530 | Hero: Frost | Vote count: 59 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 530 | Hero: Robert | Vote count: 59 | Series: Thracia 776 
-Rank 530 | Hero: Largo | Vote count: 59 | Series: Path of Radiance, Radiant Dawn 
-Rank 531 | Hero: Irma | Vote count: 58 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 532 | Hero: Aimee | Vote count: 57 | Series: Radiant Dawn 
-Rank 533 | Hero: Selphina | Vote count: 56 | Series: Thracia 776 
-Rank 533 | Hero: Deen | Vote count: 56 | Series: Thracia 776 
-Rank 533 | Hero: Beck | Vote count: 56 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 534 | Hero: Brighton | Vote count: 55 | Series: Thracia 776 
-Rank 535 | Hero: Osian | Vote count: 54 | Series: Thracia 776 
-Rank 535 | Hero: Hannibal | Vote count: 54 | Series: Genealogy of the Holy War 
-Rank 536 | Hero: Andrey | Vote count: 53 | Series: Genealogy of the Holy War 
-Rank 536 | Hero: Nichol | Vote count: 53 | Series: Fates 
-Rank 536 | Hero: Fuga | Vote count: 53 | Series: Fates 
-Rank 537 | Hero: Ignatius | Vote count: 52 | Series: Fates 
-Rank 537 | Hero: Bertram | Vote count: 52 | Series: Path of Radiance 
-Rank 537 | Hero: Reiden | Vote count: 52 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 537 | Hero: Teru & Garrick | Vote count: 52 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 538 | Hero: Pallardó | Vote count: 51 | Series: Three Houses (War Arc) 
-Rank 538 | Hero: Phina | Vote count: 51 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 538 | Hero: Raydrik | Vote count: 51 | Series: Thracia 776 
-Rank 539 | Hero: Ilios | Vote count: 50 | Series: Thracia 776 
-Rank 540 | Hero: Roger | Vote count: 49 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 541 | Hero: Boah | Vote count: 48 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 541 | Hero: Macellan | Vote count: 48 | Series: Mystery of the Emblem / New Mystery of the Emblem, Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 541 | Hero: Creidne | Vote count: 48 | Series: Genealogy of the Holy War 
-Rank 542 | Hero: Larum | Vote count: 47 | Series: The Binding Blade 
-Rank 542 | Hero: Lawson | Vote count: 47 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 543 | Hero: Xavier | Vote count: 46 | Series: Thracia 776 
-Rank 543 | Hero: Dolph | Vote count: 46 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon, Mystery of the Emblem / New Mystery of the Emblem 
-Rank 544 | Hero: Dice | Vote count: 45 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 545 | Hero: Bors | Vote count: 44 | Series: The Binding Blade 
-Rank 545 | Hero: Lang | Vote count: 44 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 546 | Hero: Deimne | Vote count: 43 | Series: Genealogy of the Holy War 
-Rank 547 | Hero: Tomas | Vote count: 42 | Series: Three Houses (Academy Arc) 
-Rank 548 | Hero: Wade | Vote count: 41 | Series: The Binding Blade 
-Rank 549 | Hero: Dayan | Vote count: 40 | Series: The Binding Blade 
-Rank 549 | Hero: Perne | Vote count: 40 | Series: Thracia 776 
-Rank 549 | Hero: Hawk | Vote count: 40 | Series: Genealogy of the Holy War 
-Rank 550 | Hero: Luke | Vote count: 39 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 550 | Hero: Roderick | Vote count: 39 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 551 | Hero: Lord Arundel | Vote count: 38 | Series: Three Houses (Academy Arc) 
-Rank 552 | Hero: Slayde | Vote count: 37 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 552 | Hero: Jubelo | Vote count: 37 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 553 | Hero: Chouten & Pheros | Vote count: 36 | Series: Tokyo Mirage Sessions ♯FE Encore 
-Rank 554 | Hero: Jeanne | Vote count: 35 | Series: Genealogy of the Holy War 
-Rank 554 | Hero: Bloom | Vote count: 35 | Series: Genealogy of the Holy War 
-Rank 554 | Hero: Lonato | Vote count: 35 | Series: Three Houses (Academy Arc) 
-Rank 555 | Hero: Nomah | Vote count: 34 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 555 | Hero: Massena | Vote count: 34 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 556 | Hero: Warren | Vote count: 31 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 556 | Hero: Valtome | Vote count: 31 | Series: Radiant Dawn 
-Rank 557 | Hero: Desaix | Vote count: 30 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 557 | Hero: Barthe | Vote count: 30 | Series: The Binding Blade 
-Rank 558 | Hero: Safy | Vote count: 29 | Series: Thracia 776 
-Rank 558 | Hero: Tatarrah | Vote count: 29 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 558 | Hero: Blake | Vote count: 29 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 559 | Hero: Riev | Vote count: 28 | Series: The Sacred Stones 
-Rank 559 | Hero: Gwendal | Vote count: 28 | Series: Three Houses (War Arc) 
-Rank 559 | Hero: Coirpre | Vote count: 28 | Series: Genealogy of the Holy War 
-Rank 560 | Hero: Sleuf | Vote count: 27 | Series: Thracia 776 
-Rank 560 | Hero: Tristan | Vote count: 27 | Series: Genealogy of the Holy War 
-Rank 561 | Hero: Sandima | Vote count: 26 | Series: Genealogy of the Holy War 
-Rank 561 | Hero: Zelot | Vote count: 26 | Series: The Binding Blade 
-Rank 562 | Hero: Alva | Vote count: 25 | Series: Thracia 776 
-Rank 562 | Hero: Kutuzov | Vote count: 25 | Series: Genealogy of the Holy War 
-Rank 563 | Hero: Dolth | Vote count: 24 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 563 | Hero: Belf | Vote count: 24 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 564 | Hero: Asaello | Vote count: 23 | Series: Genealogy of the Holy War 
-Rank 564 | Hero: Troude | Vote count: 23 | Series: Thracia 776 
-Rank 565 | Hero: Amid | Vote count: 22 | Series: Genealogy of the Holy War 
-Rank 565 | Hero: Munnir | Vote count: 22 | Series: Genealogy of the Holy War 
-Rank 565 | Hero: Charlot | Vote count: 22 | Series: Genealogy of the Holy War 
-Rank 565 | Hero: Halvan | Vote count: 22 | Series: Thracia 776 
-Rank 565 | Hero: Hermina | Vote count: 22 | Series: Genealogy of the Holy War 
-Rank 566 | Hero: Garret | Vote count: 21 | Series: The Binding Blade 
-Rank 566 | Hero: Cain | Vote count: 21 | Series: Thracia 776 
-Rank 566 | Hero: Chagall | Vote count: 21 | Series: Genealogy of the Holy War 
-Rank 566 | Hero: Barth | Vote count: 21 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 566 | Hero: Malledus | Vote count: 21 | Series: Shadow Dragon and the Blade of Light / Shadow Dragon 
-Rank 567 | Hero: Grieth | Vote count: 19 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 567 | Hero: Scipio | Vote count: 19 | Series: Genealogy of the Holy War 
-Rank 567 | Hero: Yoder | Vote count: 19 | Series: The Binding Blade 
-Rank 567 | Hero: Roberto | Vote count: 19 | Series: Mystery of the Emblem / New Mystery of the Emblem 
-Rank 568 | Hero: Conomor | Vote count: 18 | Series: Thracia 776 
-Rank 569 | Hero: Garth | Vote count: 16 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 569 | Hero: Cimbaeth | Vote count: 16 | Series: Genealogy of the Holy War 
-Rank 570 | Hero: Muston | Vote count: 14 | Series: Radiant Dawn 
-Rank 571 | Hero: Jerome | Vote count: 13 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 571 | Hero: Veld | Vote count: 13 | Series: Thracia 776 
-Rank 572 | Hero: Izuka | Vote count: 12 | Series: Radiant Dawn 
-Rank 572 | Hero: Daniel | Vote count: 12 | Series: Radiant Dawn 
-Rank 572 | Hero: Hetzel | Vote count: 12 | Series: Radiant Dawn 
-Rank 573 | Hero: Halcyon | Vote count: 11 | Series: Gaiden / Echoes: Shadows of Valentia 
-Rank 573 | Hero: Hayden | Vote count: 11 | Series: The Sacred Stones 
-Rank 573 | Hero: Dalvin | Vote count: 11 | Series: Genealogy of the Holy War 
+Rank 1 | Edelgard | Vote count: 74617
+	Three Houses (War Arc) votes: 47839
+	Three Houses (Academy Arc) votes: 26778 
+
+Rank 2 | Dimitri | Vote count: 69448
+	Three Houses (War Arc) votes: 59868
+	Three Houses (Academy Arc) votes: 9580 
+
+Rank 3 | Claude | Vote count: 59751
+	Three Houses (War Arc) votes: 47697
+	Three Houses (Academy Arc) votes: 12054 
+
+Rank 4 | Marth | Vote count: 44107
+	Mystery of the Emblem / New Mystery of the Emblem votes: 10296
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 33811 
+
+Rank 5 | Lysithea | Vote count: 42462
+	Three Houses (War Arc) votes: 31176
+	Three Houses (Academy Arc) votes: 11286 
+
+Rank 6 | Bernadetta | Vote count: 37400
+	Three Houses (War Arc) votes: 16025
+	Three Houses (Academy Arc) votes: 21375 
+
+Rank 7 | Byleth (female) | Vote count: 35255
+	Three Houses (Academy Arc) votes: 16941
+	Three Houses (Academy Arc) votes: 18314 
+
+Rank 8 | Eirika | Vote count: 26040
+	The Sacred Stones votes: 26040 
+
+Rank 9 | Plumeria | Vote count: 20800
+	Heroes votes: 20800 
+
+Rank 10 | Chrom | Vote count: 15595
+	Awakening votes: 15595 
+
+Rank 11 | Seliph | Vote count: 15593
+	Genealogy of the Holy War votes: 15593 
+
+Rank 12 | Dorothea | Vote count: 15212
+	Three Houses (Academy Arc) votes: 5345
+	Three Houses (War Arc) votes: 9867 
+
+Rank 13 | Marianne | Vote count: 14105
+	Three Houses (Academy Arc) votes: 5267
+	Three Houses (War Arc) votes: 8838 
+
+Rank 14 | Felix | Vote count: 12465
+	Three Houses (Academy Arc) votes: 3274
+	Three Houses (War Arc) votes: 9191 
+
+Rank 15 | Anna | Vote count: 12137
+	Awakening votes: 12137 
+
+Rank 16 | Hilda | Vote count: 11702
+	Three Houses (Academy Arc) votes: 3059
+	Three Houses (War Arc) votes: 8643 
+
+Rank 17 | Byleth (male) | Vote count: 10410
+	Three Houses (Academy Arc) votes: 4602
+	Three Houses (Academy Arc) votes: 5808 
+
+Rank 18 | Robin (male) | Vote count: 9898
+	Awakening votes: 9898 
+
+Rank 19 | Ashe | Vote count: 9288
+	Three Houses (War Arc) votes: 4772
+	Three Houses (Academy Arc) votes: 4516 
+
+Rank 20 | Sylvain | Vote count: 9132
+	Three Houses (Academy Arc) votes: 3319
+	Three Houses (War Arc) votes: 5813 
+
+Rank 21 | Corrin (female) | Vote count: 9079
+	Fates votes: 9079 
+
+Rank 22 | Tharja | Vote count: 7674
+	Awakening votes: 7674 
+
+Rank 23 | Robin (female) | Vote count: 7352
+	Awakening votes: 7352 
+
+Rank 24 | Jill | Vote count: 6999
+	Radiant Dawn votes: 4718
+	Path of Radiance votes: 2281 
+
+Rank 25 | Sothis | Vote count: 6967
+	Three Houses (Academy Arc) votes: 6967 
+
+Rank 26 | Soren | Vote count: 6873
+	Radiant Dawn votes: 3092
+	Path of Radiance votes: 3781 
+
+Rank 27 | Jorge | Vote count: 6728
+	Radiant Dawn votes: 6728 
+
+Rank 28 | Azura | Vote count: 6264
+	Fates votes: 6264 
+
+Rank 29 | Sigurd | Vote count: 6198
+	Genealogy of the Holy War votes: 6198 
+
+Rank 30 | Líf | Vote count: 5771
+	Heroes votes: 5771 
+
+Rank 31 | Rhea | Vote count: 5627
+	Three Houses (Academy Arc) votes: 5627 
+
+Rank 32 | Ingrid | Vote count: 5543
+	Three Houses (Academy Arc) votes: 2928
+	Three Houses (War Arc) votes: 2615 
+
+Rank 33 | Black Knight | Vote count: 5247
+	Radiant Dawn votes: 2096
+	Path of Radiance votes: 3151 
+
+Rank 34 | Annette | Vote count: 5165
+	Three Houses (War Arc) votes: 3685
+	Three Houses (Academy Arc) votes: 1480 
+
+Rank 35 | Nino | Vote count: 5144
+	The Blazing Blade votes: 5144 
+
+Rank 36 | Mia | Vote count: 5031
+	Path of Radiance votes: 1673
+	Radiant Dawn votes: 3358 
+
+Rank 37 | Reinhardt | Vote count: 4963
+	Thracia 776 votes: 4963 
+
+Rank 38 | Alfonse | Vote count: 4859
+	Heroes votes: 4859 
+
+Rank 38 | Lilina | Vote count: 4859
+	The Binding Blade votes: 4859 
+
+Rank 39 | Soleil | Vote count: 4639
+	Fates votes: 4639 
+
+Rank 40 | Linhardt | Vote count: 4591
+	Three Houses (Academy Arc) votes: 2528
+	Three Houses (War Arc) votes: 2063 
+
+Rank 41 | Ferdinand | Vote count: 4584
+	Three Houses (War Arc) votes: 2981
+	Three Houses (Academy Arc) votes: 1603 
+
+Rank 42 | Selena | Vote count: 4469
+	The Sacred Stones votes: 4469 
+
+Rank 43 | Shamir | Vote count: 4452
+	Three Houses (Academy Arc) votes: 4452 
+
+Rank 44 | Loki | Vote count: 4428
+	Heroes votes: 4428 
+
+Rank 45 | Tsubasa & Caeda | Vote count: 4410
+	Tokyo Mirage Sessions ♯FE Encore votes: 4410 
+
+Rank 46 | Petra | Vote count: 4374
+	Three Houses (War Arc) votes: 3243
+	Three Houses (Academy Arc) votes: 1131 
+
+Rank 47 | Tiki | Vote count: 4161
+	Tokyo Mirage Sessions ♯FE Encore votes: 4161 
+
+Rank 48 | Seiros | Vote count: 4145
+	Three Houses (War Arc) votes: 4145 
+
+Rank 49 | Itsuki & Chrom | Vote count: 4096
+	Tokyo Mirage Sessions ♯FE Encore votes: 4096 
+
+Rank 50 | Takumi | Vote count: 4013
+	Fates votes: 4013 
+
+Rank 51 | Triandra | Vote count: 3889
+	Heroes votes: 3889 
+
+Rank 52 | Dedue | Vote count: 3495
+	Three Houses (War Arc) votes: 2559
+	Three Houses (Academy Arc) votes: 936 
+
+Rank 53 | Leo | Vote count: 3193
+	Fates votes: 3193 
+
+Rank 54 | Tiki | Vote count: 3137
+	Awakening votes: 3137 
+
+Rank 55 | Anna | Vote count: 3070
+	Heroes votes: 3070 
+
+Rank 56 | Lute | Vote count: 3047
+	The Sacred Stones votes: 3047 
+
+Rank 57 | Tiki | Vote count: 3031
+	Mystery of the Emblem / New Mystery of the Emblem votes: 919
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 2112 
+
+Rank 58 | Flayn | Vote count: 3016
+	Three Houses (Academy Arc) votes: 3016 
+
+Rank 59 | Caspar | Vote count: 2987
+	Three Houses (Academy Arc) votes: 734
+	Three Houses (War Arc) votes: 2253 
+
+Rank 60 | Seteth | Vote count: 2954
+	Three Houses (Academy Arc) votes: 2954 
+
+Rank 61 | Nephenee | Vote count: 2913
+	Radiant Dawn votes: 1554
+	Path of Radiance votes: 1359 
+
+Rank 62 | Mercedes | Vote count: 2890
+	Three Houses (War Arc) votes: 1543
+	Three Houses (Academy Arc) votes: 1347 
+
+Rank 63 | Cordelia | Vote count: 2834
+	Awakening votes: 2834 
+
+Rank 64 | Bruno | Vote count: 2831
+	Heroes votes: 2831 
+
+Rank 65 | Ninian | Vote count: 2796
+	The Blazing Blade votes: 2796 
+
+Rank 66 | Laegjarn | Vote count: 2753
+	Heroes votes: 2753 
+
+Rank 67 | Severa | Vote count: 2682
+	Awakening votes: 2682 
+
+Rank 68 | Lorenz | Vote count: 2668
+	Three Houses (War Arc) votes: 1984
+	Three Houses (Academy Arc) votes: 684 
+
+Rank 69 | Fjorm | Vote count: 2654
+	Heroes votes: 2654 
+
+Rank 70 | Nowi | Vote count: 2596
+	Awakening votes: 2596 
+
+Rank 71 | Shinon | Vote count: 2576
+	Radiant Dawn votes: 1715
+	Path of Radiance votes: 861 
+
+Rank 72 | Joshua | Vote count: 2575
+	The Sacred Stones votes: 2575 
+
+Rank 73 | Leonie | Vote count: 2503
+	Three Houses (War Arc) votes: 2005
+	Three Houses (Academy Arc) votes: 498 
+
+Rank 74 | Hubert | Vote count: 2453
+	Three Houses (Academy Arc) votes: 408
+	Three Houses (War Arc) votes: 2045 
+
+Rank 75 | Zelgius | Vote count: 2441
+	Path of Radiance votes: 595
+	Radiant Dawn votes: 1846 
+
+Rank 76 | Caeda | Vote count: 2400
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 1725
+	Mystery of the Emblem / New Mystery of the Emblem votes: 675 
+
+Rank 77 | Catria | Vote count: 2350
+	Gaiden / Echoes: Shadows of Valentia votes: 903
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 1020
+	Mystery of the Emblem / New Mystery of the Emblem votes: 427 
+
+Rank 78 | Nils | Vote count: 2336
+	The Blazing Blade votes: 2336 
+
+Rank 79 | Corrin (male) | Vote count: 2294
+	Fates votes: 2294 
+
+Rank 80 | Ayra | Vote count: 2166
+	Genealogy of the Holy War votes: 2166 
+
+Rank 81 | Rinkah | Vote count: 2159
+	Fates votes: 2159 
+
+Rank 82 | Elincia | Vote count: 2132
+	Radiant Dawn votes: 1442
+	Path of Radiance votes: 690 
+
+Rank 83 | Maiko | Vote count: 2078
+	Tokyo Mirage Sessions ♯FE Encore votes: 2078 
+
+Rank 84 | Myrrh | Vote count: 2066
+	The Sacred Stones votes: 2066 
+
+Rank 85 | Berkut | Vote count: 2031
+	Gaiden / Echoes: Shadows of Valentia votes: 2031 
+
+Rank 86 | Xander | Vote count: 1947
+	Fates votes: 1947 
+
+Rank 87 | Lyon | Vote count: 1945
+	The Sacred Stones votes: 1945 
+
+Rank 88 | Felicia | Vote count: 1918
+	Fates votes: 1918 
+
+Rank 89 | Ishtar | Vote count: 1870
+	Genealogy of the Holy War votes: 1870 
+
+Rank 90 | Leif | Vote count: 1828
+	Thracia 776 votes: 1410
+	Genealogy of the Holy War votes: 418 
+
+Rank 91 | Sharena | Vote count: 1780
+	Heroes votes: 1780 
+
+Rank 92 | Ryoma | Vote count: 1779
+	Fates votes: 1779 
+
+Rank 93 | Morgan (female) | Vote count: 1767
+	Awakening votes: 1767 
+
+Rank 94 | Touma & Cain | Vote count: 1760
+	Tokyo Mirage Sessions ♯FE Encore votes: 1760 
+
+Rank 95 | Mila | Vote count: 1741
+	Gaiden / Echoes: Shadows of Valentia votes: 1741 
+
+Rank 96 | Marisa | Vote count: 1694
+	The Sacred Stones votes: 1694 
+
+Rank 97 | Charlotte | Vote count: 1687
+	Fates votes: 1687 
+
+Rank 98 | Kris (male) | Vote count: 1662
+	Mystery of the Emblem / New Mystery of the Emblem votes: 1662 
+
+Rank 99 | Tibarn | Vote count: 1646
+	Path of Radiance votes: 578
+	Radiant Dawn votes: 1068 
+
+Rank 100 | Finn | Vote count: 1625
+	Genealogy of the Holy War votes: 769
+	Thracia 776 votes: 463
+	Genealogy of the Holy War votes: 393 
+
+Rank 101 | Kiria & Tharja | Vote count: 1589
+	Tokyo Mirage Sessions ♯FE Encore votes:  
+
+Rank 102 | Selkie | Vote count: 1566
+	Fates votes: 1566 
+
+Rank 103 | Grima | Vote count: 1517
+	Awakening votes: 1517 
+
+Rank 104 | Idunn | Vote count: 1505
+	The Binding Blade votes: 1505 
+
+Rank 105 | Xane | Vote count: 1489
+	Mystery of the Emblem / New Mystery of the Emblem votes: 320
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 1169 
+
+Rank 105 | Lilith | Vote count: 1489
+	Fates votes: 1489 
+
+Rank 106 | Surtr | Vote count: 1481
+	Heroes votes: 1481 
+
+Rank 107 | Ilyana | Vote count: 1469
+	Radiant Dawn votes: 738
+	Path of Radiance votes: 731 
+
+Rank 108 | Sakura | Vote count: 1467
+	Fates votes: 1467 
+
+Rank 109 | Nyx | Vote count: 1465
+	Fates votes: 1465 
+
+Rank 110 | Merlinus | Vote count: 1456
+	The Binding Blade votes: 1456 
+
+Rank 111 | Erk | Vote count: 1445
+	The Blazing Blade votes: 1445 
+
+Rank 112 | Nemesis | Vote count: 1427
+	Three Houses (War Arc) votes: 1427 
+
+Rank 113 | Thrasir | Vote count: 1415
+	Heroes votes: 1415 
+
+Rank 114 | Athos | Vote count: 1409
+	The Blazing Blade votes: 1409 
+
+Rank 114 | Sephiran | Vote count: 1409
+	Radiant Dawn votes: 1204
+	Path of Radiance votes: 205 
+
+Rank 115 | Delthea | Vote count: 1386
+	Gaiden / Echoes: Shadows of Valentia votes: 1386 
+
+Rank 116 | Laevatein | Vote count: 1363
+	Heroes votes: 1363 
+
+Rank 117 | Hinoka | Vote count: 1345
+	Fates votes: 1345 
+
+Rank 118 | Lon'qu | Vote count: 1321
+	Awakening votes: 1321 
+
+Rank 119 | Minerva | Vote count: 1294
+	Mystery of the Emblem / New Mystery of the Emblem votes: 278
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 1016 
+
+Rank 120 | Anna | Vote count: 1292
+	Three Houses (Academy Arc) votes: 1292 
+
+Rank 120 | Faye | Vote count: 1292
+	Gaiden / Echoes: Shadows of Valentia votes: 1292 
+
+Rank 120 | Forrest | Vote count: 1292
+	Fates votes: 1292 
+
+Rank 121 | Navarre | Vote count: 1289
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 931
+	Mystery of the Emblem / New Mystery of the Emblem votes: 358 
+
+Rank 122 | Hel | Vote count: 1287
+	Heroes votes: 1287 
+
+Rank 123 | Owain | Vote count: 1267
+	Awakening votes: 1267 
+
+Rank 124 | Leila | Vote count: 1266
+	The Blazing Blade votes: 1266 
+
+Rank 125 | Henry | Vote count: 1242
+	Awakening votes: 1242 
+
+Rank 126 | Catherine | Vote count: 1232
+	Three Houses (Academy Arc) votes: 1232 
+
+Rank 127 | Yashiro & Navarre | Vote count: 1228
+	Tokyo Mirage Sessions ♯FE Encore votes: 1228 
+
+Rank 128 | Eir | Vote count: 1222
+	Heroes votes: 1222 
+
+Rank 129 | Rath | Vote count: 1204
+	The Blazing Blade votes: 1204 
+
+Rank 130 | Cornelia | Vote count: 1159
+	Three Houses (War Arc) votes: 1159 
+
+Rank 131 | Ogma | Vote count: 1141
+	Mystery of the Emblem / New Mystery of the Emblem votes: 379
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 762 
+
+Rank 132 | Manuela | Vote count: 1133
+	Three Houses (Academy Arc) votes: 1133 
+
+Rank 133 | Tana | Vote count: 1129
+	The Sacred Stones votes: 1129 
+
+Rank 134 | Ranulf | Vote count: 1127
+	Radiant Dawn votes: 555
+	Path of Radiance votes: 572 
+
+Rank 135 | Luthier | Vote count: 1121
+	Gaiden / Echoes: Shadows of Valentia votes: 1121 
+
+Rank 136 | Emmeryn | Vote count: 1117
+	Awakening votes: 1117 
+
+Rank 137 | Raphael | Vote count: 1115
+	Three Houses (Academy Arc) votes: 593
+	Three Houses (War Arc) votes: 522 
+
+Rank 138 | Julia | Vote count: 1109
+	Genealogy of the Holy War votes: 1109 
+
+Rank 139 | Eldigan | Vote count: 1106
+	Genealogy of the Holy War votes: 1106 
+
+Rank 140 | Olivia | Vote count: 1104
+	Awakening votes: 1104 
+
+Rank 141 | Boyd | Vote count: 1101
+	Radiant Dawn votes: 581
+	Path of Radiance votes: 520 
+
+Rank 142 | Jeralt | Vote count: 1098
+	Three Houses (Academy Arc) votes: 1098 
+
+Rank 143 | Sain | Vote count: 1091
+	The Blazing Blade votes: 1091 
+
+Rank 144 | Elise | Vote count: 1083
+	Fates votes: 1083 
+
+Rank 144 | Florina | Vote count: 1083
+	The Blazing Blade votes: 1083 
+
+Rank 145 | Volke | Vote count: 1079
+	Path of Radiance votes: 329
+	Radiant Dawn votes: 750 
+
+Rank 146 | Fae | Vote count: 1078
+	The Binding Blade votes: 1078 
+
+Rank 147 | Dieck | Vote count: 1071
+	The Binding Blade votes: 1071 
+
+Rank 148 | Camus | Vote count: 1061
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 844
+	Mystery of the Emblem / New Mystery of the Emblem votes: 217 
+
+Rank 149 | Ashnard | Vote count: 1027
+	Path of Radiance votes: 1027 
+
+Rank 150 | Brigid | Vote count: 1026
+	Genealogy of the Holy War votes: 1026 
+
+Rank 151 | Katarina | Vote count: 1024
+	Mystery of the Emblem / New Mystery of the Emblem votes: 1024 
+
+Rank 151 | Dwyer | Vote count: 1024
+	Fates votes: 1024 
+
+Rank 152 | Mist | Vote count: 1021
+	Radiant Dawn votes: 607
+	Path of Radiance votes: 414 
+
+Rank 153 | Niles | Vote count: 1010
+	Fates votes: 1010 
+
+Rank 154 | Ignatz | Vote count: 995
+	Three Houses (War Arc) votes: 647
+	Three Houses (Academy Arc) votes: 348 
+
+Rank 155 | Tatiana | Vote count: 983
+	Gaiden / Echoes: Shadows of Valentia votes: 983 
+
+Rank 155 | Knoll | Vote count: 983
+	The Sacred Stones votes: 983 
+
+Rank 155 | Eleonora & Virion | Vote count: 983
+	Tokyo Mirage Sessions ♯FE Encore votes: 983 
+
+Rank 156 | Ophelia | Vote count: 982
+	Fates votes: 982 
+
+Rank 157 | Erinys | Vote count: 977
+	Genealogy of the Holy War votes: 977 
+
+Rank 157 | Lucia | Vote count: 977
+	Radiant Dawn votes: 626
+	Path of Radiance votes: 351 
+
+Rank 158 | Sothe | Vote count: 974
+	Radiant Dawn votes: 830
+	Path of Radiance votes: 144 
+
+Rank 159 | Gunnthrá | Vote count: 968
+	Heroes votes: 968 
+
+Rank 160 | Pelleas | Vote count: 965
+	Radiant Dawn votes: 965 
+
+Rank 161 | Freyr | Vote count: 963
+	Heroes votes: 963 
+
+Rank 162 | Sanaki | Vote count: 961
+	Radiant Dawn votes: 632
+	Path of Radiance votes: 329 
+
+Rank 163 | Say'ri | Vote count: 957
+	Awakening votes: 957 
+
+Rank 164 | Cherche | Vote count: 946
+	Awakening votes: 946 
+
+Rank 165 | Kagero | Vote count: 939
+	Fates votes: 939 
+
+Rank 166 | Jeritza | Vote count: 935
+	Three Houses (Academy Arc) votes: 935 
+
+Rank 166 | Hríd | Vote count: 935
+	Heroes votes: 935 
+
+Rank 167 | Lewyn | Vote count: 929
+	Genealogy of the Holy War votes: 929 
+
+Rank 168 | Ayaha & Aversa | Vote count: 922
+	Tokyo Mirage Sessions ♯FE Encore votes: 922 
+
+Rank 169 | Lissa | Vote count: 916
+	Awakening votes: 916 
+
+Rank 170 | Linde | Vote count: 897
+	Mystery of the Emblem / New Mystery of the Emblem votes: 268
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 629 
+
+Rank 171 | Larcei | Vote count: 896
+	Genealogy of the Holy War votes: 896 
+
+Rank 172 | Seth | Vote count: 883
+	The Sacred Stones votes: 883 
+
+Rank 173 | Anna | Vote count: 880
+	Fates votes: 880 
+
+Rank 174 | Arvis | Vote count: 879
+	Genealogy of the Holy War votes: 879 
+
+Rank 175 | Stefan | Vote count: 871
+	Path of Radiance votes: 344
+	Radiant Dawn votes: 527 
+
+Rank 176 | Inigo | Vote count: 867
+	Awakening votes: 867 
+
+Rank 177 | Fir | Vote count: 865
+	The Binding Blade votes: 865 
+
+Rank 178 | Amelia | Vote count: 862
+	The Sacred Stones votes: 862 
+
+Rank 179 | Peony | Vote count: 855
+	Heroes votes: 855 
+
+Rank 180 | Sophia | Vote count: 847
+	The Binding Blade votes: 847 
+
+Rank 181 | Dheginsea | Vote count: 840
+	Path of Radiance votes: 175
+	Radiant Dawn votes: 665 
+
+Rank 182 | Barry | Vote count: 836
+	Tokyo Mirage Sessions ♯FE Encore votes: 836 
+
+Rank 182 | Wrys | Vote count: 836
+	Mystery of the Emblem / New Mystery of the Emblem votes: 117
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 719 
+
+Rank 183 | Priam | Vote count: 835
+	Awakening votes: 835 
+
+Rank 184 | Tine | Vote count: 825
+	Genealogy of the Holy War votes: 825 
+
+Rank 185 | Donnel | Vote count: 824
+	Awakening votes: 824 
+
+Rank 186 | Edward | Vote count: 818
+	Radiant Dawn votes: 818 
+
+Rank 187 | Kliff | Vote count: 811
+	Gaiden / Echoes: Shadows of Valentia votes: 811 
+
+Rank 188 | Limstella | Vote count: 803
+	The Blazing Blade votes: 803 
+
+Rank 189 | Rodrigue | Vote count: 796
+	Three Houses (Academy Arc) votes: 796 
+
+Rank 190 | Guy | Vote count: 793
+	The Blazing Blade votes: 793 
+
+Rank 191 | Nyna | Vote count: 792
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 588
+	Mystery of the Emblem / New Mystery of the Emblem votes: 204 
+
+Rank 192 | Palla | Vote count: 789
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 253
+	Gaiden / Echoes: Shadows of Valentia votes: 350
+	Mystery of the Emblem / New Mystery of the Emblem votes: 186 
+
+Rank 193 | Orochi | Vote count: 788
+	Fates votes: 788 
+
+Rank 194 | Ced | Vote count: 783
+	Thracia 776 votes: 448
+	Genealogy of the Holy War votes: 335 
+
+Rank 195 | Anankos | Vote count: 781
+	Fates votes: 781 
+
+Rank 196 | Keaton | Vote count: 778
+	Fates votes: 778 
+
+Rank 197 | Lachesis | Vote count: 774
+	Genealogy of the Holy War votes: 774 
+
+Rank 198 | Azelle | Vote count: 771
+	Genealogy of the Holy War votes: 771 
+
+Rank 198 | Sonia | Vote count: 771
+	The Blazing Blade votes: 771 
+
+Rank 199 | Haar | Vote count: 765
+	Radiant Dawn votes: 578
+	Path of Radiance votes: 187 
+
+Rank 200 | Flame Emperor | Vote count: 759
+	Three Houses (Academy Arc) votes: 759 
+
+Rank 201 | Patty | Vote count: 757
+	Genealogy of the Holy War votes: 757 
+
+Rank 202 | Gaius | Vote count: 749
+	Awakening votes: 749 
+
+Rank 202 | Miriel | Vote count: 749
+	Awakening votes: 749 
+
+Rank 203 | Lex | Vote count: 738
+	Genealogy of the Holy War votes: 738 
+
+Rank 204 | Astrid | Vote count: 735
+	Path of Radiance votes: 484
+	Radiant Dawn votes: 251 
+
+Rank 205 | Lukas | Vote count: 732
+	Gaiden / Echoes: Shadows of Valentia votes: 732 
+
+Rank 206 | Lucius | Vote count: 719
+	The Blazing Blade votes: 719 
+
+Rank 207 | Titania | Vote count: 718
+	Radiant Dawn votes: 288
+	Path of Radiance votes: 430 
+
+Rank 208 | Zihark | Vote count: 717
+	Radiant Dawn votes: 374
+	Path of Radiance votes: 343 
+
+Rank 209 | Kurthnaga | Vote count: 715
+	Path of Radiance votes: 157
+	Radiant Dawn votes: 558 
+
+Rank 210 | L'Arachel | Vote count: 714
+	The Sacred Stones votes: 714 
+
+Rank 211 | Velouria | Vote count: 706
+	Fates votes: 706 
+
+Rank 212 | Merric | Vote count: 702
+	Mystery of the Emblem / New Mystery of the Emblem votes: 246
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 456 
+
+Rank 213 | Peri | Vote count: 697
+	Fates votes: 697 
+
+Rank 213 | Beruka | Vote count: 697
+	Fates votes: 697 
+
+Rank 214 | Scarlet | Vote count: 696
+	Fates votes: 696 
+
+Rank 214 | Colm | Vote count: 696
+	The Sacred Stones votes: 696 
+
+Rank 215 | Effie | Vote count: 694
+	Fates votes: 694 
+
+Rank 215 | Mozu | Vote count: 694
+	Fates votes: 694 
+
+Rank 216 | Gilliam | Vote count: 693
+	The Sacred Stones votes: 693 
+
+Rank 217 | Kris (female) | Vote count: 688
+	Mystery of the Emblem / New Mystery of the Emblem votes: 688 
+
+Rank 218 | Volug | Vote count: 684
+	Radiant Dawn votes: 684 
+
+Rank 218 | Kronya | Vote count: 684
+	Three Houses (Academy Arc) votes: 684 
+
+Rank 219 | Arthur | Vote count: 682
+	Genealogy of the Holy War votes: 682 
+
+Rank 220 | Sonya | Vote count: 676
+	Gaiden / Echoes: Shadows of Valentia votes: 676 
+
+Rank 221 | Greil | Vote count: 674
+	Path of Radiance votes: 674 
+
+Rank 222 | Cyril | Vote count: 673
+	Three Houses (Academy Arc) votes: 212
+	Three Houses (War Arc) votes: 461 
+
+Rank 223 | Rinea | Vote count: 660
+	Gaiden / Echoes: Shadows of Valentia votes: 660 
+
+Rank 223 | Brigand Boss | Vote count: 660
+	Gaiden / Echoes: Shadows of Valentia votes: 660 
+
+Rank 224 | Elice | Vote count: 659
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 530
+	Mystery of the Emblem / New Mystery of the Emblem votes: 129 
+
+Rank 225 | Anna | Vote count: 650
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 536
+	Mystery of the Emblem / New Mystery of the Emblem votes: 114 
+
+Rank 226 | Hana | Vote count: 646
+	Fates votes: 646 
+
+Rank 227 | Gangrel | Vote count: 634
+	Awakening votes: 634 
+
+Rank 228 | Jaffar | Vote count: 627
+	The Blazing Blade votes: 627 
+
+Rank 228 | Mareeta | Vote count: 627
+	Thracia 776 votes: 627 
+
+Rank 229 | Deirdre | Vote count: 624
+	Genealogy of the Holy War votes: 624 
+
+Rank 230 | Julian | Vote count: 622
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 447
+	Mystery of the Emblem / New Mystery of the Emblem votes: 175 
+
+Rank 231 | Heath | Vote count: 621
+	The Blazing Blade votes: 621 
+
+Rank 232 | Aversa | Vote count: 618
+	Awakening votes: 618 
+
+Rank 232 | Tormod | Vote count: 618
+	Radiant Dawn votes: 392
+	Path of Radiance votes: 226 
+
+Rank 233 | Wolf | Vote count: 610
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 459
+	Mystery of the Emblem / New Mystery of the Emblem votes: 151 
+
+Rank 233 | Midori | Vote count: 610
+	Fates votes: 610 
+
+Rank 234 | Artur | Vote count: 603
+	The Sacred Stones votes: 603 
+
+Rank 235 | Wolt | Vote count: 600
+	The Binding Blade votes: 600 
+
+Rank 236 | Jakob | Vote count: 595
+	Fates votes: 595 
+
+Rank 237 | Vika | Vote count: 593
+	Radiant Dawn votes: 593 
+
+Rank 238 | Vanessa | Vote count: 589
+	The Sacred Stones votes: 589 
+
+Rank 239 | Kaze | Vote count: 588
+	Fates votes: 588 
+
+Rank 240 | Jeorge | Vote count: 586
+	Mystery of the Emblem / New Mystery of the Emblem votes: 298
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 288 
+
+Rank 241 | Lethe | Vote count: 584
+	Radiant Dawn votes: 243
+	Path of Radiance votes: 341 
+
+Rank 242 | Naesala | Vote count: 581
+	Radiant Dawn votes: 370
+	Path of Radiance votes: 211 
+
+Rank 243 | Pent | Vote count: 579
+	The Blazing Blade votes: 579 
+
+Rank 244 | Raven | Vote count: 572
+	The Blazing Blade votes: 572 
+
+Rank 245 | Marcia | Vote count: 571
+	Radiant Dawn votes: 278
+	Path of Radiance votes: 293 
+
+Rank 246 | Ashera | Vote count: 568
+	Radiant Dawn votes: 568 
+
+Rank 246 | Sara | Vote count: 568
+	Thracia 776 votes: 568 
+
+Rank 246 | Flavia | Vote count: 568
+	Awakening votes: 568 
+
+Rank 247 | Lloyd | Vote count: 567
+	The Blazing Blade votes: 567 
+
+Rank 248 | Alois | Vote count: 564
+	Three Houses (Academy Arc) votes: 564 
+
+Rank 249 | Genny | Vote count: 560
+	Gaiden / Echoes: Shadows of Valentia votes: 560 
+
+Rank 249 | Flora | Vote count: 560
+	Fates votes: 560 
+
+Rank 250 | Mae | Vote count: 555
+	Gaiden / Echoes: Shadows of Valentia votes: 555 
+
+Rank 251 | Selena | Vote count: 554
+	Fates votes: 554 
+
+Rank 252 | Rutger | Vote count: 551
+	The Binding Blade votes: 551 
+
+Rank 253 | Reina | Vote count: 550
+	Fates votes: 550 
+
+Rank 254 | Oboro | Vote count: 549
+	Fates votes: 549 
+
+Rank 255 | Fernand | Vote count: 540
+	Gaiden / Echoes: Shadows of Valentia votes: 540 
+
+Rank 256 | Guinivere | Vote count: 538
+	The Binding Blade votes: 538 
+
+Rank 257 | Shura | Vote count: 533
+	Fates votes: 533 
+
+Rank 258 | Caineghis | Vote count: 530
+	Radiant Dawn votes: 308
+	Path of Radiance votes: 222 
+
+Rank 258 | Matthew | Vote count: 530
+	The Blazing Blade votes: 530 
+
+Rank 259 | Gregor | Vote count: 529
+	Awakening votes: 529 
+
+Rank 260 | Duessel | Vote count: 526
+	The Sacred Stones votes: 526 
+
+Rank 261 | Gonzalez | Vote count: 519
+	The Binding Blade votes: 519 
+
+Rank 262 | Hardin | Vote count: 516
+	Mystery of the Emblem / New Mystery of the Emblem votes: 134
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 382 
+
+Rank 263 | Neimi | Vote count: 511
+	The Sacred Stones votes: 511 
+
+Rank 264 | Clair | Vote count: 508
+	Gaiden / Echoes: Shadows of Valentia votes: 508 
+
+Rank 265 | Ricken | Vote count: 507
+	Awakening votes: 507 
+
+Rank 266 | Death Knight | Vote count: 506
+	Three Houses (Academy Arc) votes: 506 
+
+Rank 267 | Shanna | Vote count: 503
+	The Binding Blade votes: 503 
+
+Rank 268 | Nagi | Vote count: 498
+	Mystery of the Emblem / New Mystery of the Emblem votes: 111
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 387 
+
+Rank 269 | Setsuna | Vote count: 497
+	Fates votes: 497 
+
+Rank 270 | Rebecca | Vote count: 495
+	The Blazing Blade votes: 495 
+
+Rank 271 | Ulster | Vote count: 491
+	Genealogy of the Holy War votes: 491 
+
+Rank 272 | Kellam | Vote count: 489
+	Awakening votes: 489 
+
+Rank 272 | Michalis | Vote count: 489
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 317
+	Mystery of the Emblem / New Mystery of the Emblem votes: 172 
+
+Rank 272 | Muarim | Vote count: 489
+	Path of Radiance votes: 221
+	Radiant Dawn votes: 268 
+
+Rank 273 | Benny | Vote count: 487
+	Fates votes: 487 
+
+Rank 274 | Noire | Vote count: 485
+	Awakening votes: 485 
+
+Rank 275 | Natasha | Vote count: 484
+	The Sacred Stones votes: 484 
+
+Rank 276 | Frederick | Vote count: 483
+	Awakening votes: 483 
+
+Rank 276 | Matthis | Vote count: 483
+	Mystery of the Emblem / New Mystery of the Emblem votes: 71
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 412 
+
+Rank 277 | Melady | Vote count: 477
+	The Binding Blade votes: 477 
+
+Rank 278 | Canas | Vote count: 474
+	The Blazing Blade votes: 474 
+
+Rank 279 | Arete | Vote count: 473
+	Fates votes: 473 
+
+Rank 280 | Caeldori | Vote count: 472
+	Fates votes: 472 
+
+Rank 280 | Julius | Vote count: 472
+	Genealogy of the Holy War votes: 472 
+
+Rank 281 | Sophie | Vote count: 471
+	Fates votes: 471 
+
+Rank 282 | Hugh | Vote count: 470
+	The Binding Blade votes: 470 
+
+Rank 282 | Vaike | Vote count: 470
+	Awakening votes: 470 
+
+Rank 283 | Franz | Vote count: 467
+	The Sacred Stones votes: 467 
+
+Rank 284 | Zeke | Vote count: 466
+	Gaiden / Echoes: Shadows of Valentia votes: 466 
+
+Rank 284 | Kaden | Vote count: 466
+	Fates votes: 466 
+
+Rank 285 | Rhys | Vote count: 462
+	Radiant Dawn votes: 180
+	Path of Radiance votes: 282 
+
+Rank 285 | Morgan (male) | Vote count: 462
+	Awakening votes: 462 
+
+Rank 286 | Helbindi | Vote count: 460
+	Heroes votes: 460 
+
+Rank 287 | Kent | Vote count: 457
+	The Blazing Blade votes: 457 
+
+Rank 288 | Kana (female) | Vote count: 451
+	Fates votes: 451 
+
+Rank 289 | Lena | Vote count: 448
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 331
+	Mystery of the Emblem / New Mystery of the Emblem votes: 117 
+
+Rank 289 | Mamori & Draug | Vote count: 448
+	Tokyo Mirage Sessions ♯FE Encore votes: 448 
+
+Rank 290 | Asbel | Vote count: 446
+	Thracia 776 votes: 446 
+
+Rank 290 | Nailah | Vote count: 446
+	Radiant Dawn votes: 446 
+
+Rank 291 | Nergal | Vote count: 435
+	The Blazing Blade votes: 435 
+
+Rank 292 | Farina | Vote count: 434
+	The Blazing Blade votes: 434 
+
+Rank 293 | Rudolf | Vote count: 432
+	Gaiden / Echoes: Shadows of Valentia votes: 432 
+
+Rank 294 | Ylgr | Vote count: 430
+	Heroes votes: 430 
+
+Rank 295 | Medeus | Vote count: 429
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 313
+	Mystery of the Emblem / New Mystery of the Emblem votes: 116 
+
+Rank 296 | Serra | Vote count: 428
+	The Blazing Blade votes: 428 
+
+Rank 297 | Basilio | Vote count: 427
+	Awakening votes: 427 
+
+Rank 297 | Reyson | Vote count: 427
+	Path of Radiance votes: 213
+	Radiant Dawn votes: 214 
+
+Rank 298 | Ares | Vote count: 426
+	Genealogy of the Holy War votes: 426 
+
+Rank 298 | Heather | Vote count: 426
+	Radiant Dawn votes: 426 
+
+Rank 299 | Ronan | Vote count: 423
+	Thracia 776 votes: 423 
+
+Rank 300 | Gordin | Vote count: 422
+	Mystery of the Emblem / New Mystery of the Emblem votes: 182
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 240 
+
+Rank 301 | Laslow | Vote count: 420
+	Fates votes: 420 
+
+Rank 302 | Conrad | Vote count: 418
+	Gaiden / Echoes: Shadows of Valentia votes: 418 
+
+Rank 303 | Geoffrey | Vote count: 417
+	Radiant Dawn votes: 321
+	Path of Radiance votes: 96 
+
+Rank 304 | Innes | Vote count: 415
+	The Sacred Stones votes: 415 
+
+Rank 305 | Mitama | Vote count: 414
+	Fates votes: 414 
+
+Rank 306 | Kiragi | Vote count: 413
+	Fates votes: 413 
+
+Rank 307 | Subaki | Vote count: 410
+	Fates votes: 410 
+
+Rank 308 | Samuel | Vote count: 406
+	Mystery of the Emblem / New Mystery of the Emblem votes: 406 
+
+Rank 309 | Iago | Vote count: 404
+	Fates votes: 404 
+
+Rank 310 | Shannan | Vote count: 403
+	Genealogy of the Holy War votes: 403 
+
+Rank 310 | Panne | Vote count: 403
+	Awakening votes: 403 
+
+Rank 310 | Leanne | Vote count: 403
+	Radiant Dawn votes: 249
+	Path of Radiance votes: 154 
+
+Rank 311 | Kamui | Vote count: 401
+	Gaiden / Echoes: Shadows of Valentia votes: 401 
+
+Rank 312 | Layla | Vote count: 400
+	Fates votes: 400 
+
+Rank 313 | Python | Vote count: 398
+	Gaiden / Echoes: Shadows of Valentia votes: 398 
+
+Rank 314 | Naga | Vote count: 396
+	Awakening votes: 396 
+
+Rank 315 | Ursula | Vote count: 395
+	The Blazing Blade votes: 395 
+
+Rank 316 | Zephiel | Vote count: 393
+	The Binding Blade votes: 393 
+
+Rank 317 | Oswin | Vote count: 390
+	The Blazing Blade votes: 390 
+
+Rank 318 | Fiora | Vote count: 389
+	The Blazing Blade votes: 389 
+
+Rank 319 | Clarisse | Vote count: 388
+	Mystery of the Emblem / New Mystery of the Emblem votes: 388 
+
+Rank 320 | Stahl | Vote count: 384
+	Awakening votes: 384 
+
+Rank 321 | Est | Vote count: 381
+	Gaiden / Echoes: Shadows of Valentia votes: 208
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 126
+	Mystery of the Emblem / New Mystery of the Emblem votes: 47 
+
+Rank 321 | Nah | Vote count: 381
+	Awakening votes: 381 
+
+Rank 322 | Arion | Vote count: 379
+	Genealogy of the Holy War votes: 379 
+
+Rank 322 | Merlinus | Vote count: 379
+	The Blazing Blade votes: 379 
+
+Rank 323 | Cain | Vote count: 377
+	Mystery of the Emblem / New Mystery of the Emblem votes: 152
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 225 
+
+Rank 324 | Skrimir | Vote count: 376
+	Radiant Dawn votes: 376 
+
+Rank 325 | Laurent | Vote count: 371
+	Awakening votes: 371 
+
+Rank 326 | Yune | Vote count: 367
+	Radiant Dawn votes: 367 
+
+Rank 327 | Petrine | Vote count: 366
+	Path of Radiance votes: 366 
+
+Rank 328 | Wil | Vote count: 365
+	The Blazing Blade votes: 365 
+
+Rank 329 | Arden | Vote count: 361
+	Genealogy of the Holy War votes: 361 
+
+Rank 330 | Saleh | Vote count: 360
+	The Sacred Stones votes: 360 
+
+Rank 331 | Deen | Vote count: 354
+	Gaiden / Echoes: Shadows of Valentia votes: 354 
+
+Rank 332 | Rhajat | Vote count: 353
+	Fates votes: 353 
+
+Rank 333 | Athena | Vote count: 352
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 254
+	Mystery of the Emblem / New Mystery of the Emblem votes: 98 
+
+Rank 333 | Libra | Vote count: 352
+	Awakening votes: 352 
+
+Rank 334 | Sumia | Vote count: 351
+	Awakening votes: 351 
+
+Rank 335 | Monica | Vote count: 348
+	Three Houses (Academy Arc) votes: 348 
+
+Rank 336 | Narcian | Vote count: 345
+	The Binding Blade votes: 345 
+
+Rank 337 | Silas | Vote count: 344
+	Fates votes: 344 
+
+Rank 338 | Galzus | Vote count: 342
+	Thracia 776 votes: 342 
+
+Rank 339 | Kieran | Vote count: 341
+	Radiant Dawn votes: 147
+	Path of Radiance votes: 194 
+
+Rank 340 | Meg | Vote count: 340
+	Radiant Dawn votes: 340 
+
+Rank 341 | Olwen | Vote count: 339
+	Thracia 776 votes: 339 
+
+Rank 341 | Quan | Vote count: 339
+	Genealogy of the Holy War votes: 339 
+
+Rank 341 | Saber | Vote count: 339
+	Gaiden / Echoes: Shadows of Valentia votes: 339 
+
+Rank 342 | Tailtiu | Vote count: 337
+	Genealogy of the Holy War votes: 337 
+
+Rank 343 | Valter | Vote count: 332
+	The Sacred Stones votes: 332 
+
+Rank 344 | Hestia | Vote count: 331
+	Gaiden / Echoes: Shadows of Valentia votes: 331 
+
+Rank 345 | Saizo | Vote count: 330
+	Fates votes: 330 
+
+Rank 345 | Janaff | Vote count: 330
+	Radiant Dawn votes: 127
+	Path of Radiance votes: 203 
+
+Rank 346 | Leon | Vote count: 328
+	Gaiden / Echoes: Shadows of Valentia votes: 328 
+
+Rank 347 | Dorcas | Vote count: 327
+	The Blazing Blade votes: 327 
+
+Rank 348 | Malice | Vote count: 320
+	Mystery of the Emblem / New Mystery of the Emblem votes: 320 
+
+Rank 349 | Rafiel | Vote count: 317
+	Radiant Dawn votes: 317 
+
+Rank 350 | Silque | Vote count: 316
+	Gaiden / Echoes: Shadows of Valentia votes: 316 
+
+Rank 350 | Lorenz | Vote count: 316
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 227
+	Mystery of the Emblem / New Mystery of the Emblem votes: 89 
+
+Rank 351 | Aran | Vote count: 315
+	Radiant Dawn votes: 315 
+
+Rank 352 | Niime | Vote count: 314
+	The Binding Blade votes: 314 
+
+Rank 353 | Judith | Vote count: 313
+	Three Houses (Academy Arc) votes: 313 
+
+Rank 354 | Ismaire | Vote count: 306
+	The Sacred Stones votes: 306 
+
+Rank 354 | Linoan | Vote count: 306
+	Thracia 776 votes: 306 
+
+Rank 355 | Maribelle | Vote count: 302
+	Awakening votes: 302 
+
+Rank 356 | Atlas | Vote count: 298
+	Gaiden / Echoes: Shadows of Valentia votes: 298 
+
+Rank 356 | Nasir | Vote count: 298
+	Radiant Dawn votes: 141
+	Path of Radiance votes: 157 
+
+Rank 357 | Etzel | Vote count: 297
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 156
+	Mystery of the Emblem / New Mystery of the Emblem votes: 141 
+
+Rank 357 | Klein | Vote count: 297
+	The Binding Blade votes: 297 
+
+Rank 357 | Sumeragi | Vote count: 297
+	Fates votes: 297 
+
+Rank 358 | Dew | Vote count: 296
+	Genealogy of the Holy War votes: 296 
+
+Rank 359 | Cecilia | Vote count: 295
+	The Binding Blade votes: 295 
+
+Rank 359 | Mustafa | Vote count: 295
+	Awakening votes: 295 
+
+Rank 360 | Izana | Vote count: 294
+	Fates votes: 294 
+
+Rank 361 | Louise | Vote count: 293
+	The Blazing Blade votes: 293 
+
+Rank 362 | Shigure | Vote count: 290
+	Fates votes: 290 
+
+Rank 362 | Lyre | Vote count: 290
+	Radiant Dawn votes: 290 
+
+Rank 363 | Eremiya | Vote count: 288
+	Mystery of the Emblem / New Mystery of the Emblem votes: 288 
+
+Rank 363 | Duma | Vote count: 288
+	Gaiden / Echoes: Shadows of Valentia votes: 288 
+
+Rank 364 | Ross | Vote count: 286
+	The Sacred Stones votes: 286 
+
+Rank 365 | Cormag | Vote count: 285
+	The Sacred Stones votes: 285 
+
+Rank 366 | Lambert | Vote count: 284
+	Three Houses (War Arc) votes: 284 
+
+Rank 367 | Ashunera | Vote count: 282
+	Radiant Dawn votes: 282 
+
+Rank 367 | Metodey | Vote count: 282
+	Three Houses (Academy Arc) votes: 282 
+
+Rank 368 | Chulainn | Vote count: 280
+	Genealogy of the Holy War votes: 280 
+
+Rank 369 | Karla | Vote count: 279
+	The Blazing Blade votes: 279 
+
+Rank 369 | Mordecai | Vote count: 279
+	Path of Radiance votes: 151
+	Radiant Dawn votes: 128 
+
+Rank 370 | Marcus | Vote count: 278
+	The Blazing Blade votes: 278 
+
+Rank 371 | Thales | Vote count: 277
+	Three Houses (War Arc) votes: 277 
+
+Rank 372 | Dart | Vote count: 275
+	The Blazing Blade votes: 275 
+
+Rank 373 | Lugh | Vote count: 273
+	The Binding Blade votes: 273 
+
+Rank 374 | Daisy | Vote count: 272
+	Genealogy of the Holy War votes: 272 
+
+Rank 374 | Priscilla | Vote count: 272
+	The Blazing Blade votes: 272 
+
+Rank 375 | Sirius | Vote count: 271
+	Mystery of the Emblem / New Mystery of the Emblem votes: 271 
+
+Rank 376 | Ena | Vote count: 269
+	Radiant Dawn votes: 130
+	Path of Radiance votes: 139 
+
+Rank 376 | Tobin | Vote count: 269
+	Gaiden / Echoes: Shadows of Valentia votes: 269 
+
+Rank 377 | Gatrie | Vote count: 266
+	Path of Radiance votes: 123
+	Radiant Dawn votes: 143 
+
+Rank 377 | Miklan | Vote count: 266
+	Three Houses (Academy Arc) votes: 266 
+
+Rank 378 | Cynthia | Vote count: 263
+	Awakening votes: 263 
+
+Rank 379 | Elena | Vote count: 262
+	Path of Radiance votes: 262 
+
+Rank 380 | Nader | Vote count: 261
+	Three Houses (War Arc) votes: 261 
+
+Rank 381 | Odin | Vote count: 260
+	Fates votes: 260 
+
+Rank 382 | Forde | Vote count: 258
+	The Sacred Stones votes: 258 
+
+Rank 382 | Mikoto | Vote count: 258
+	Fates votes: 258 
+
+Rank 383 | Harken | Vote count: 256
+	The Blazing Blade votes: 256 
+
+Rank 383 | Legault | Vote count: 256
+	The Blazing Blade votes: 256 
+
+Rank 384 | Duke Aegir | Vote count: 254
+	Three Houses (War Arc) votes: 254 
+
+Rank 385 | Oifey | Vote count: 252
+	Genealogy of the Holy War votes: 252 
+
+Rank 386 | Gerik | Vote count: 251
+	The Sacred Stones votes: 251 
+
+Rank 387 | Karel | Vote count: 250
+	The Binding Blade votes: 250 
+
+Rank 387 | Raigh | Vote count: 250
+	The Binding Blade votes: 250 
+
+Rank 387 | Maria | Vote count: 250
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 195
+	Mystery of the Emblem / New Mystery of the Emblem votes: 55 
+
+Rank 388 | Hanneman | Vote count: 249
+	Three Houses (Academy Arc) votes: 249 
+
+Rank 389 | Oliver | Vote count: 247
+	Radiant Dawn votes: 247 
+
+Rank 390 | Barst | Vote count: 246
+	Mystery of the Emblem / New Mystery of the Emblem votes: 67
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 179 
+
+Rank 391 | Radd | Vote count: 245
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 189
+	Mystery of the Emblem / New Mystery of the Emblem votes: 56 
+
+Rank 392 | Castor | Vote count: 242
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 173
+	Mystery of the Emblem / New Mystery of the Emblem votes: 69 
+
+Rank 392 | Garcia | Vote count: 242
+	The Sacred Stones votes: 242 
+
+Rank 393 | Gotoh | Vote count: 239
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 178
+	Mystery of the Emblem / New Mystery of the Emblem votes: 61 
+
+Rank 394 | Virion | Vote count: 238
+	Awakening votes: 238 
+
+Rank 395 | Kana (male) | Vote count: 237
+	Fates votes: 237 
+
+Rank 396 | Astram | Vote count: 236
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 149
+	Mystery of the Emblem / New Mystery of the Emblem votes: 87 
+
+Rank 397 | Isadora | Vote count: 235
+	The Blazing Blade votes: 235 
+
+Rank 397 | Hayato | Vote count: 235
+	Fates votes: 235 
+
+Rank 398 | Sheena | Vote count: 232
+	Mystery of the Emblem / New Mystery of the Emblem votes: 232 
+
+Rank 399 | Calill | Vote count: 227
+	Radiant Dawn votes: 111
+	Path of Radiance votes: 116 
+
+Rank 400 | Boey | Vote count: 226
+	Gaiden / Echoes: Shadows of Valentia votes: 226 
+
+Rank 401 | Linus | Vote count: 224
+	The Blazing Blade votes: 224 
+
+Rank 402 | Clarine | Vote count: 223
+	The Binding Blade votes: 223 
+
+Rank 403 | Altena | Vote count: 222
+	Genealogy of the Holy War votes: 222 
+
+Rank 403 | Carrion | Vote count: 222
+	Thracia 776 votes: 222 
+
+Rank 404 | Glen | Vote count: 221
+	The Sacred Stones votes: 221 
+
+Rank 404 | Lot | Vote count: 221
+	The Binding Blade votes: 221 
+
+Rank 405 | Ephidel | Vote count: 220
+	The Blazing Blade votes: 220 
+
+Rank 405 | Febail | Vote count: 220
+	Genealogy of the Holy War votes: 220 
+
+Rank 406 | Lana | Vote count: 219
+	Genealogy of the Holy War votes: 219 
+
+Rank 407 | Perceval | Vote count: 217
+	The Binding Blade votes: 217 
+
+Rank 407 | Murdock | Vote count: 217
+	The Binding Blade votes: 217 
+
+Rank 408 | Arlen | Vote count: 216
+	Mystery of the Emblem / New Mystery of the Emblem votes: 216 
+
+Rank 409 | Guinivere | Vote count: 215
+	The Blazing Blade votes: 215 
+
+Rank 409 | Dorothy | Vote count: 215
+	The Binding Blade votes: 215 
+
+Rank 410 | Giffca | Vote count: 214
+	Path of Radiance votes: 89
+	Radiant Dawn votes: 125 
+
+Rank 410 | Mycen | Vote count: 214
+	Gaiden / Echoes: Shadows of Valentia votes: 214 
+
+Rank 411 | Brom | Vote count: 212
+	Radiant Dawn votes: 120
+	Path of Radiance votes: 92 
+
+Rank 412 | Miranda | Vote count: 211
+	Thracia 776 votes: 211 
+
+Rank 412 | Moulder | Vote count: 211
+	The Sacred Stones votes: 211 
+
+Rank 413 | Brunnya | Vote count: 210
+	The Binding Blade votes: 210 
+
+Rank 414 | Igrene | Vote count: 208
+	The Binding Blade votes: 208 
+
+Rank 415 | Nolan | Vote count: 207
+	Radiant Dawn votes: 207 
+
+Rank 416 | Validar | Vote count: 205
+	Awakening votes: 205 
+
+Rank 416 | Lance | Vote count: 205
+	The Binding Blade votes: 205 
+
+Rank 417 | Elffin | Vote count: 204
+	The Binding Blade votes: 204 
+
+Rank 418 | Zeiss | Vote count: 203
+	The Binding Blade votes: 203 
+
+Rank 419 | Naoise | Vote count: 202
+	Genealogy of the Holy War votes: 202 
+
+Rank 420 | Yen'fay | Vote count: 201
+	Awakening votes: 201 
+
+Rank 421 | Caellach | Vote count: 199
+	The Sacred Stones votes: 199 
+
+Rank 421 | Nanna | Vote count: 199
+	Thracia 776 votes: 131
+	Genealogy of the Holy War votes: 68 
+
+Rank 422 | Noah | Vote count: 197
+	The Binding Blade votes: 197 
+
+Rank 423 | Nina | Vote count: 196
+	Fates votes: 196 
+
+Rank 424 | Alen | Vote count: 195
+	The Binding Blade votes: 195 
+
+Rank 424 | Rolf | Vote count: 195
+	Radiant Dawn votes: 94
+	Path of Radiance votes: 101 
+
+Rank 425 | Leonardo | Vote count: 194
+	Radiant Dawn votes: 194 
+
+Rank 426 | Gray | Vote count: 193
+	Gaiden / Echoes: Shadows of Valentia votes: 193 
+
+Rank 427 | Orson | Vote count: 192
+	The Sacred Stones votes: 192 
+
+Rank 427 | Vaida | Vote count: 192
+	The Blazing Blade votes: 192 
+
+Rank 428 | Shiro | Vote count: 191
+	Fates votes: 191 
+
+Rank 429 | Cath | Vote count: 190
+	The Binding Blade votes: 190 
+
+Rank 430 | Geese | Vote count: 187
+	The Binding Blade votes: 187 
+
+Rank 430 | Hicks | Vote count: 187
+	Thracia 776 votes: 187 
+
+Rank 431 | Samson | Vote count: 186
+	Mystery of the Emblem / New Mystery of the Emblem votes: 72
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 114 
+
+Rank 432 | Galle | Vote count: 185
+	The Binding Blade votes: 185 
+
+Rank 432 | Machyua | Vote count: 185
+	Thracia 776 votes: 185 
+
+Rank 433 | Echidna | Vote count: 182
+	The Binding Blade votes: 182 
+
+Rank 433 | Lowen | Vote count: 182
+	The Blazing Blade votes: 182 
+
+Rank 433 | Midia | Vote count: 182
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 136
+	Mystery of the Emblem / New Mystery of the Emblem votes: 46 
+
+Rank 434 | Draug | Vote count: 181
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 131
+	Mystery of the Emblem / New Mystery of the Emblem votes: 50 
+
+Rank 435 | Jesse | Vote count: 180
+	Gaiden / Echoes: Shadows of Valentia votes: 180 
+
+Rank 436 | Tanith | Vote count: 179
+	Path of Radiance votes: 105
+	Radiant Dawn votes: 74 
+
+Rank 436 | Nuibaba | Vote count: 179
+	Gaiden / Echoes: Shadows of Valentia votes: 179 
+
+Rank 437 | Thea | Vote count: 178
+	The Binding Blade votes: 178 
+
+Rank 438 | Arthur | Vote count: 177
+	Fates votes: 177 
+
+Rank 439 | Vyland | Vote count: 176
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 135
+	Mystery of the Emblem / New Mystery of the Emblem votes: 41 
+
+Rank 439 | Randolph | Vote count: 176
+	Three Houses (War Arc) votes: 176 
+
+Rank 440 | Gunter | Vote count: 175
+	Fates votes: 175 
+
+Rank 441 | Gerome | Vote count: 174
+	Awakening votes: 174 
+
+Rank 441 | Forsyth | Vote count: 174
+	Gaiden / Echoes: Shadows of Valentia votes: 174 
+
+Rank 442 | Norne | Vote count: 173
+	Mystery of the Emblem / New Mystery of the Emblem votes: 70
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 103 
+
+Rank 443 | Legion | Vote count: 172
+	Mystery of the Emblem / New Mystery of the Emblem votes: 172 
+
+Rank 443 | Wallace | Vote count: 172
+	The Blazing Blade votes: 172 
+
+Rank 444 | Jake | Vote count: 171
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 140
+	Mystery of the Emblem / New Mystery of the Emblem votes: 31 
+
+Rank 445 | Sigrun | Vote count: 170
+	Radiant Dawn votes: 91
+	Path of Radiance votes: 79 
+
+Rank 445 | Laura | Vote count: 170
+	Radiant Dawn votes: 170 
+
+Rank 446 | Abel | Vote count: 168
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 124
+	Mystery of the Emblem / New Mystery of the Emblem votes: 44 
+
+Rank 446 | Mathilda | Vote count: 168
+	Gaiden / Echoes: Shadows of Valentia votes: 168 
+
+Rank 446 | Walhart | Vote count: 168
+	Awakening votes: 168 
+
+Rank 447 | Azama | Vote count: 167
+	Fates votes: 167 
+
+Rank 448 | Ethlyn | Vote count: 166
+	Genealogy of the Holy War votes: 166 
+
+Rank 448 | Edain | Vote count: 166
+	Genealogy of the Holy War votes: 166 
+
+Rank 448 | Beowolf | Vote count: 166
+	Genealogy of the Holy War votes: 166 
+
+Rank 449 | Riku & Abel | Vote count: 164
+	Tokyo Mirage Sessions ♯FE Encore votes: 164 
+
+Rank 450 | Yatsufusa & Gharnef | Vote count: 162
+	Tokyo Mirage Sessions ♯FE Encore votes: 162 
+
+Rank 451 | Fee | Vote count: 161
+	Genealogy of the Holy War votes: 161 
+
+Rank 452 | Yarne | Vote count: 160
+	Awakening votes: 160 
+
+Rank 453 | Claud | Vote count: 158
+	Genealogy of the Holy War votes: 158 
+
+Rank 454 | Karel | Vote count: 157
+	The Blazing Blade votes: 157 
+
+Rank 455 | Jedah | Vote count: 156
+	Gaiden / Echoes: Shadows of Valentia votes: 156 
+
+Rank 456 | Geitz | Vote count: 155
+	The Blazing Blade votes: 155 
+
+Rank 456 | Ladislava | Vote count: 155
+	Three Houses (Academy Arc) votes: 155 
+
+Rank 456 | Rennac | Vote count: 155
+	The Sacred Stones votes: 155 
+
+Rank 456 | Jagen | Vote count: 155
+	Mystery of the Emblem / New Mystery of the Emblem votes: 43
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 112 
+
+Rank 457 | Roshea | Vote count: 154
+	Mystery of the Emblem / New Mystery of the Emblem votes: 48
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 106 
+
+Rank 458 | Annand | Vote count: 153
+	Genealogy of the Holy War votes: 153 
+
+Rank 459 | Salem | Vote count: 152
+	Thracia 776 votes: 152 
+
+Rank 459 | Cecil | Vote count: 152
+	Mystery of the Emblem / New Mystery of the Emblem votes: 152 
+
+Rank 460 | Lara | Vote count: 150
+	Thracia 776 votes: 150 
+
+Rank 461 | Cervantes | Vote count: 149
+	Awakening votes: 149 
+
+Rank 462 | Makalov | Vote count: 148
+	Path of Radiance votes: 99
+	Radiant Dawn votes: 49 
+
+Rank 462 | Renault | Vote count: 148
+	The Blazing Blade votes: 148 
+
+Rank 463 | Marla | Vote count: 147
+	Gaiden / Echoes: Shadows of Valentia votes: 147 
+
+Rank 464 | Trec | Vote count: 145
+	The Binding Blade votes: 145 
+
+Rank 464 | Juno | Vote count: 145
+	The Binding Blade votes: 145 
+
+Rank 465 | Oscar | Vote count: 144
+	Radiant Dawn votes: 52
+	Path of Radiance votes: 92 
+
+Rank 465 | Yukimura | Vote count: 144
+	Fates votes: 144 
+
+Rank 465 | Yuliya | Vote count: 144
+	Mystery of the Emblem / New Mystery of the Emblem votes: 144 
+
+Rank 466 | Bastian | Vote count: 143
+	Radiant Dawn votes: 82
+	Path of Radiance votes: 61 
+
+Rank 467 | Saul | Vote count: 142
+	The Binding Blade votes: 142 
+
+Rank 468 | Anna | Vote count: 139
+	Radiant Dawn votes: 139 
+
+Rank 469 | Ewan | Vote count: 138
+	The Sacred Stones votes: 138 
+
+Rank 470 | Danann | Vote count: 136
+	Genealogy of the Holy War votes: 136 
+
+Rank 471 | Ogier | Vote count: 135
+	The Binding Blade votes: 135 
+
+Rank 471 | Hinata | Vote count: 135
+	Fates votes: 135 
+
+Rank 471 | Sedgar | Vote count: 135
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 86
+	Mystery of the Emblem / New Mystery of the Emblem votes: 49 
+
+Rank 472 | Garon | Vote count: 134
+	Fates votes: 134 
+
+Rank 473 | Hawkeye | Vote count: 133
+	The Blazing Blade votes: 133 
+
+Rank 474 | Asugi | Vote count: 132
+	Fates votes: 132 
+
+Rank 475 | Karin | Vote count: 130
+	Thracia 776 votes: 130 
+
+Rank 475 | Midir | Vote count: 130
+	Genealogy of the Holy War votes: 130 
+
+Rank 476 | Gharnef | Vote count: 128
+	Mystery of the Emblem / New Mystery of the Emblem votes: 29
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 99 
+
+Rank 476 | Marty | Vote count: 128
+	Thracia 776 votes: 128 
+
+Rank 477 | Devdan | Vote count: 127
+	Path of Radiance votes: 127 
+
+Rank 478 | Gwendolyn | Vote count: 125
+	The Binding Blade votes: 125 
+
+Rank 478 | Shiva | Vote count: 125
+	Thracia 776 votes: 125 
+
+Rank 479 | Sue | Vote count: 124
+	The Binding Blade votes: 124 
+
+Rank 480 | Misha | Vote count: 121
+	Thracia 776 votes: 121 
+
+Rank 480 | Percy | Vote count: 121
+	Fates votes: 121 
+
+Rank 481 | Gilbert | Vote count: 120
+	Three Houses (Academy Arc) votes: 120 
+
+Rank 481 | Diarmuid | Vote count: 120
+	Thracia 776 votes: 47
+	Genealogy of the Holy War votes: 73 
+
+Rank 481 | Bantu | Vote count: 120
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 97
+	Mystery of the Emblem / New Mystery of the Emblem votes: 23 
+
+Rank 482 | Wendell | Vote count: 119
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 94
+	Mystery of the Emblem / New Mystery of the Emblem votes: 25 
+
+Rank 482 | Sin | Vote count: 119
+	The Binding Blade votes: 119 
+
+Rank 483 | Lifis | Vote count: 118
+	Thracia 776 votes: 118 
+
+Rank 484 | Lombard | Vote count: 116
+	Genealogy of the Holy War votes: 116 
+
+Rank 485 | Marcus | Vote count: 114
+	The Binding Blade votes: 114 
+
+Rank 486 | Amy | Vote count: 113
+	Radiant Dawn votes: 113 
+
+Rank 486 | Saias | Vote count: 113
+	Thracia 776 votes: 113 
+
+Rank 486 | Manfroy | Vote count: 113
+	Genealogy of the Holy War votes: 113 
+
+Rank 487 | Almedha | Vote count: 112
+	Radiant Dawn votes: 112 
+
+Rank 487 | Tethys | Vote count: 112
+	The Sacred Stones votes: 112 
+
+Rank 487 | Cord | Vote count: 112
+	Mystery of the Emblem / New Mystery of the Emblem votes: 30
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 82 
+
+Rank 488 | Caesar | Vote count: 111
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 78
+	Mystery of the Emblem / New Mystery of the Emblem votes: 33 
+
+Rank 489 | Kyle | Vote count: 110
+	The Sacred Stones votes: 110 
+
+Rank 489 | Travant | Vote count: 110
+	Genealogy of the Holy War votes: 110 
+
+Rank 489 | Frey | Vote count: 110
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 80
+	Mystery of the Emblem / New Mystery of the Emblem votes: 30 
+
+Rank 490 | Laylea | Vote count: 108
+	Genealogy of the Holy War votes: 108 
+
+Rank 491 | Clive | Vote count: 107
+	Gaiden / Echoes: Shadows of Valentia votes: 107 
+
+Rank 491 | Kostas | Vote count: 107
+	Three Houses (Academy Arc) votes: 107 
+
+Rank 492 | Amalda | Vote count: 106
+	Thracia 776 votes: 106 
+
+Rank 492 | Eyvel | Vote count: 106
+	Thracia 776 votes: 106 
+
+Rank 492 | Kempf | Vote count: 106
+	Thracia 776 votes: 106 
+
+Rank 492 | Darros | Vote count: 106
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 87
+	Mystery of the Emblem / New Mystery of the Emblem votes: 19 
+
+Rank 493 | Syrene | Vote count: 105
+	The Sacred Stones votes: 105 
+
+Rank 493 | Fado | Vote count: 105
+	The Sacred Stones votes: 105 
+
+Rank 493 | Fergus | Vote count: 105
+	Thracia 776 votes: 105 
+
+Rank 494 | Zola | Vote count: 103
+	Fates votes: 103 
+
+Rank 495 | Sully | Vote count: 102
+	Awakening votes: 102 
+
+Rank 496 | Ulki | Vote count: 101
+	Path of Radiance votes: 48
+	Radiant Dawn votes: 53 
+
+Rank 496 | Dagdar | Vote count: 101
+	Thracia 776 votes: 101 
+
+Rank 497 | Zephiel | Vote count: 99
+	The Blazing Blade votes: 99 
+
+Rank 497 | Dalsin | Vote count: 99
+	Thracia 776 votes: 99 
+
+Rank 497 | Brady | Vote count: 99
+	Awakening votes: 99 
+
+Rank 498 | Valbar | Vote count: 98
+	Gaiden / Echoes: Shadows of Valentia votes: 98 
+
+Rank 498 | Nobu & Gangrel | Vote count: 98
+	Tokyo Mirage Sessions ♯FE Encore votes: 98 
+
+Rank 499 | Chad | Vote count: 97
+	The Binding Blade votes: 97 
+
+Rank 499 | Horace | Vote count: 97
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 55
+	Mystery of the Emblem / New Mystery of the Emblem votes: 42 
+
+Rank 500 | Elen | Vote count: 96
+	The Binding Blade votes: 96 
+
+Rank 500 | Shannam | Vote count: 96
+	Thracia 776 votes: 96 
+
+Rank 501 | Eda | Vote count: 95
+	Thracia 776 votes: 95 
+
+Rank 501 | Hisame | Vote count: 95
+	Fates votes: 95 
+
+Rank 501 | Lene | Vote count: 95
+	Genealogy of the Holy War votes: 95 
+
+Rank 501 | Tauroneo | Vote count: 95
+	Path of Radiance votes: 32
+	Radiant Dawn votes: 63 
+
+Rank 501 | Rickard | Vote count: 95
+	Mystery of the Emblem / New Mystery of the Emblem votes: 22
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 73 
+
+Rank 502 | Aida | Vote count: 94
+	Genealogy of the Holy War votes: 94 
+
+Rank 502 | Emperor Ionius IX | Vote count: 94
+	Three Houses (Academy Arc) votes: 94 
+
+Rank 503 | Tomas | Vote count: 93
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 47
+	Mystery of the Emblem / New Mystery of the Emblem votes: 46 
+
+Rank 504 | Renning | Vote count: 92
+	Radiant Dawn votes: 59
+	Path of Radiance votes: 33 
+
+Rank 505 | Danved | Vote count: 91
+	Radiant Dawn votes: 91 
+
+Rank 505 | Silvia | Vote count: 91
+	Genealogy of the Holy War votes: 91 
+
+Rank 505 | Siegbert | Vote count: 91
+	Fates votes: 91 
+
+Rank 506 | Acheron | Vote count: 89
+	Three Houses (Academy Arc) votes: 89 
+
+Rank 506 | Candace | Vote count: 89
+	Fates votes: 89 
+
+Rank 507 | Iuchar | Vote count: 88
+	Genealogy of the Holy War votes: 88 
+
+Rank 508 | Homer | Vote count: 87
+	Thracia 776 votes: 87 
+
+Rank 509 | Solon | Vote count: 86
+	Three Houses (Academy Arc) votes: 86 
+
+Rank 509 | Rainbow Sage | Vote count: 86
+	Fates votes: 86 
+
+Rank 510 | Arran | Vote count: 85
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 56
+	Mystery of the Emblem / New Mystery of the Emblem votes: 29 
+
+Rank 510 | Dozla | Vote count: 85
+	The Sacred Stones votes: 85 
+
+Rank 510 | Jahn | Vote count: 85
+	The Binding Blade votes: 85 
+
+Rank 511 | Gareth | Vote count: 84
+	Radiant Dawn votes: 71
+	Path of Radiance votes: 13 
+
+Rank 512 | Bord | Vote count: 83
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 67
+	Mystery of the Emblem / New Mystery of the Emblem votes: 16 
+
+Rank 512 | Marisha | Vote count: 83
+	Mystery of the Emblem / New Mystery of the Emblem votes: 83 
+
+Rank 513 | Bartre | Vote count: 79
+	The Binding Blade votes: 79 
+
+Rank 514 | Kyza | Vote count: 77
+	Radiant Dawn votes: 77 
+
+Rank 515 | Ymir | Vote count: 76
+	Mystery of the Emblem / New Mystery of the Emblem votes: 23
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 53 
+
+Rank 516 | Fiona | Vote count: 75
+	Radiant Dawn votes: 75 
+
+Rank 517 | Byron | Vote count: 74
+	Genealogy of the Holy War votes: 74 
+
+Rank 518 | Excellus | Vote count: 73
+	Awakening votes: 73 
+
+Rank 518 | Kjelle | Vote count: 73
+	Awakening votes: 73 
+
+Rank 518 | Hilda | Vote count: 73
+	Genealogy of the Holy War votes: 73 
+
+Rank 518 | Muirne | Vote count: 73
+	Genealogy of the Holy War votes: 73 
+
+Rank 518 | Ryan | Vote count: 73
+	Mystery of the Emblem / New Mystery of the Emblem votes: 73 
+
+Rank 519 | Jarod | Vote count: 72
+	Radiant Dawn votes: 72 
+
+Rank 519 | Tina | Vote count: 72
+	Thracia 776 votes: 72 
+
+Rank 520 | Glade | Vote count: 70
+	Thracia 776 votes: 70 
+
+Rank 521 | Hans | Vote count: 69
+	Fates votes: 69 
+
+Rank 521 | Linda | Vote count: 69
+	Genealogy of the Holy War votes: 69 
+
+Rank 521 | Nealuchi | Vote count: 69
+	Path of Radiance votes: 36
+	Radiant Dawn votes: 33 
+
+Rank 522 | Alec | Vote count: 68
+	Genealogy of the Holy War votes: 68 
+
+Rank 522 | Jamke | Vote count: 68
+	Genealogy of the Holy War votes: 68 
+
+Rank 522 | Iucharba | Vote count: 68
+	Genealogy of the Holy War votes: 68 
+
+Rank 523 | Tanya | Vote count: 67
+	Thracia 776 votes: 67 
+
+Rank 523 | Douglas | Vote count: 67
+	The Binding Blade votes: 67 
+
+Rank 523 | Brian | Vote count: 67
+	Genealogy of the Holy War votes: 67 
+
+Rank 523 | Kuen & Excellus | Vote count: 67
+	Tokyo Mirage Sessions ♯FE Encore votes: 67 
+
+Rank 524 | Astolfo | Vote count: 66
+	The Binding Blade votes: 66 
+
+Rank 525 | Ralf | Vote count: 65
+	Thracia 776 votes: 65 
+
+Rank 526 | Fred | Vote count: 64
+	Thracia 776 votes: 64 
+
+Rank 527 | Ishtore | Vote count: 62
+	Genealogy of the Holy War votes: 62 
+
+Rank 527 | Bartre | Vote count: 62
+	The Blazing Blade votes: 62 
+
+Rank 527 | Chikaomi & Lon'qu | Vote count: 62
+	Tokyo Mirage Sessions ♯FE Encore votes: 62 
+
+Rank 528 | Reptor | Vote count: 61
+	Genealogy of the Holy War votes: 61 
+
+Rank 529 | Lester | Vote count: 60
+	Genealogy of the Holy War votes: 60 
+
+Rank 530 | Frost | Vote count: 59
+	Mystery of the Emblem / New Mystery of the Emblem votes: 59 
+
+Rank 530 | Robert | Vote count: 59
+	Thracia 776 votes: 59 
+
+Rank 530 | Largo | Vote count: 59
+	Path of Radiance votes: 50
+	Radiant Dawn votes: 9 
+
+Rank 531 | Irma | Vote count: 58
+	Gaiden / Echoes: Shadows of Valentia votes: 58 
+
+Rank 532 | Aimee | Vote count: 57
+	Radiant Dawn votes: 57 
+
+Rank 533 | Selphina | Vote count: 56
+	Thracia 776 votes: 56 
+
+Rank 533 | Deen | Vote count: 56
+	Thracia 776 votes: 56 
+
+Rank 533 | Beck | Vote count: 56
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 43
+	Mystery of the Emblem / New Mystery of the Emblem votes: 13 
+
+Rank 534 | Brighton | Vote count: 55
+	Thracia 776 votes: 55 
+
+Rank 535 | Osian | Vote count: 54
+	Thracia 776 votes: 54 
+
+Rank 535 | Hannibal | Vote count: 54
+	Genealogy of the Holy War votes: 54 
+
+Rank 536 | Andrey | Vote count: 53
+	Genealogy of the Holy War votes: 53 
+
+Rank 536 | Nichol | Vote count: 53
+	Fates votes: 53 
+
+Rank 536 | Fuga | Vote count: 53
+	Fates votes: 53 
+
+Rank 537 | Ignatius | Vote count: 52
+	Fates votes: 52 
+
+Rank 537 | Bertram | Vote count: 52
+	Path of Radiance votes: 52 
+
+Rank 537 | Reiden | Vote count: 52
+	Mystery of the Emblem / New Mystery of the Emblem votes: 52 
+
+Rank 537 | Teru & Garrick | Vote count: 52
+	Tokyo Mirage Sessions ♯FE Encore votes: 52 
+
+Rank 538 | Pallardó | Vote count: 51
+	Three Houses (War Arc) votes: 51 
+
+Rank 538 | Phina | Vote count: 51
+	Mystery of the Emblem / New Mystery of the Emblem votes: 51 
+
+Rank 538 | Raydrik | Vote count: 51
+	Thracia 776 votes: 51 
+
+Rank 539 | Ilios | Vote count: 50
+	Thracia 776 votes: 50 
+
+Rank 540 | Roger | Vote count: 49
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 31
+	Mystery of the Emblem / New Mystery of the Emblem votes: 18 
+
+Rank 541 | Boah | Vote count: 48
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 34
+	Mystery of the Emblem / New Mystery of the Emblem votes: 14 
+
+Rank 541 | Macellan | Vote count: 48
+	Mystery of the Emblem / New Mystery of the Emblem votes: 22
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 26 
+
+Rank 541 | Creidne | Vote count: 48
+	Genealogy of the Holy War votes: 48 
+
+Rank 542 | Larum | Vote count: 47
+	The Binding Blade votes: 47 
+
+Rank 542 | Lawson | Vote count: 47
+	Gaiden / Echoes: Shadows of Valentia votes: 47 
+
+Rank 543 | Xavier | Vote count: 46
+	Thracia 776 votes: 46 
+
+Rank 543 | Dolph | Vote count: 46
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 33
+	Mystery of the Emblem / New Mystery of the Emblem votes: 13 
+
+Rank 544 | Dice | Vote count: 45
+	Mystery of the Emblem / New Mystery of the Emblem votes: 45 
+
+Rank 545 | Bors | Vote count: 44
+	The Binding Blade votes: 44 
+
+Rank 545 | Lang | Vote count: 44
+	Mystery of the Emblem / New Mystery of the Emblem votes: 44 
+
+Rank 546 | Deimne | Vote count: 43
+	Genealogy of the Holy War votes: 43 
+
+Rank 547 | Tomas | Vote count: 42
+	Three Houses (Academy Arc) votes: 42 
+
+Rank 548 | Wade | Vote count: 41
+	The Binding Blade votes: 41 
+
+Rank 549 | Dayan | Vote count: 40
+	The Binding Blade votes: 40 
+
+Rank 549 | Perne | Vote count: 40
+	Thracia 776 votes: 40 
+
+Rank 549 | Hawk | Vote count: 40
+	Genealogy of the Holy War votes: 40 
+
+Rank 550 | Luke | Vote count: 39
+	Mystery of the Emblem / New Mystery of the Emblem votes: 39 
+
+Rank 550 | Roderick | Vote count: 39
+	Mystery of the Emblem / New Mystery of the Emblem votes: 39 
+
+Rank 551 | Lord Arundel | Vote count: 38
+	Three Houses (Academy Arc) votes: 38 
+
+Rank 552 | Slayde | Vote count: 37
+	Gaiden / Echoes: Shadows of Valentia votes: 37 
+
+Rank 552 | Jubelo | Vote count: 37
+	Mystery of the Emblem / New Mystery of the Emblem votes: 37 
+
+Rank 553 | Chouten & Pheros | Vote count: 36
+	Tokyo Mirage Sessions ♯FE Encore votes: 36 
+
+Rank 554 | Jeanne | Vote count: 35
+	Genealogy of the Holy War votes: 35 
+
+Rank 554 | Bloom | Vote count: 35
+	Genealogy of the Holy War votes: 35 
+
+Rank 554 | Lonato | Vote count: 35
+	Three Houses (Academy Arc) votes: 35 
+
+Rank 555 | Nomah | Vote count: 34
+	Gaiden / Echoes: Shadows of Valentia votes: 34 
+
+Rank 555 | Massena | Vote count: 34
+	Gaiden / Echoes: Shadows of Valentia votes: 34 
+
+Rank 556 | Warren | Vote count: 31
+	Mystery of the Emblem / New Mystery of the Emblem votes: 31 
+
+Rank 556 | Valtome | Vote count: 31
+	Radiant Dawn votes: 31 
+
+Rank 557 | Desaix | Vote count: 30
+	Gaiden / Echoes: Shadows of Valentia votes: 30 
+
+Rank 557 | Barthe | Vote count: 30
+	The Binding Blade votes: 30 
+
+Rank 558 | Safy | Vote count: 29
+	Thracia 776 votes: 29 
+
+Rank 558 | Tatarrah | Vote count: 29
+	Gaiden / Echoes: Shadows of Valentia votes: 29 
+
+Rank 558 | Blake | Vote count: 29
+	Gaiden / Echoes: Shadows of Valentia votes: 29 
+
+Rank 559 | Riev | Vote count: 28
+	The Sacred Stones votes: 28 
+
+Rank 559 | Gwendal | Vote count: 28
+	Three Houses (War Arc) votes: 28 
+
+Rank 559 | Coirpre | Vote count: 28
+	Genealogy of the Holy War votes: 28 
+
+Rank 560 | Sleuf | Vote count: 27
+	Thracia 776 votes: 27 
+
+Rank 560 | Tristan | Vote count: 27
+	Genealogy of the Holy War votes: 27 
+
+Rank 561 | Sandima | Vote count: 26
+	Genealogy of the Holy War votes: 26 
+
+Rank 561 | Zelot | Vote count: 26
+	The Binding Blade votes: 26 
+
+Rank 562 | Alva | Vote count: 25
+	Thracia 776 votes: 25 
+
+Rank 562 | Kutuzov | Vote count: 25
+	Genealogy of the Holy War votes: 25 
+
+Rank 563 | Dolth | Vote count: 24
+	Gaiden / Echoes: Shadows of Valentia votes: 24 
+
+Rank 563 | Belf | Vote count: 24
+	Mystery of the Emblem / New Mystery of the Emblem votes: 24 
+
+Rank 564 | Asaello | Vote count: 23
+	Genealogy of the Holy War votes: 23 
+
+Rank 564 | Troude | Vote count: 23
+	Thracia 776 votes: 23 
+
+Rank 565 | Amid | Vote count: 22
+	Genealogy of the Holy War votes: 22 
+
+Rank 565 | Munnir | Vote count: 22
+	Genealogy of the Holy War votes: 22 
+
+Rank 565 | Charlot | Vote count: 22
+	Genealogy of the Holy War votes: 22 
+
+Rank 565 | Halvan | Vote count: 22
+	Thracia 776 votes: 22 
+
+Rank 565 | Hermina | Vote count: 22
+	Genealogy of the Holy War votes: 22 
+
+Rank 566 | Garret | Vote count: 21
+	The Binding Blade votes: 21 
+
+Rank 566 | Cain | Vote count: 21
+	Thracia 776 votes: 21 
+
+Rank 566 | Chagall | Vote count: 21
+	Genealogy of the Holy War votes: 21 
+
+Rank 566 | Barth | Vote count: 21
+	Gaiden / Echoes: Shadows of Valentia votes: 21 
+
+Rank 566 | Malledus | Vote count: 21
+	Shadow Dragon and the Blade of Light / Shadow Dragon votes: 21 
+
+Rank 567 | Grieth | Vote count: 19
+	Gaiden / Echoes: Shadows of Valentia votes: 19 
+
+Rank 567 | Scipio | Vote count: 19
+	Genealogy of the Holy War votes: 19 
+
+Rank 567 | Yoder | Vote count: 19
+	The Binding Blade votes: 19 
+
+Rank 567 | Roberto | Vote count: 19
+	Mystery of the Emblem / New Mystery of the Emblem votes: 19 
+
+Rank 568 | Conomor | Vote count: 18
+	Thracia 776 votes: 18 
+
+Rank 569 | Garth | Vote count: 16
+	Gaiden / Echoes: Shadows of Valentia votes: 16 
+
+Rank 569 | Cimbaeth | Vote count: 16
+	Genealogy of the Holy War votes: 16 
+
+Rank 570 | Muston | Vote count: 14
+	Radiant Dawn votes: 14 
+
+Rank 571 | Jerome | Vote count: 13
+	Gaiden / Echoes: Shadows of Valentia votes: 13 
+
+Rank 571 | Veld | Vote count: 13
+	Thracia 776 votes: 13 
+
+Rank 572 | Izuka | Vote count: 12
+	Radiant Dawn votes: 12 
+
+Rank 572 | Daniel | Vote count: 12
+	Radiant Dawn votes: 12 
+
+Rank 572 | Hetzel | Vote count: 12
+	Radiant Dawn votes: 12 
+
+Rank 573 | Halcyon | Vote count: 11
+	Gaiden / Echoes: Shadows of Valentia votes: 11 
+
+Rank 573 | Hayden | Vote count: 11
+	The Sacred Stones votes: 11 
+
+Rank 573 | Dalvin | Vote count: 11
+	Genealogy of the Holy War votes: 11 
+
